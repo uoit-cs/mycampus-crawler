@@ -50,7 +50,7 @@ def PrepareIndex(db):
             i += 1
 
     db.commit()
-    print "I: %.2f seconds" % (time() - start)
+    print("I: %.2f seconds" % (time() - start))
 
     #
     # Create all physical rooms in the north campus
@@ -75,7 +75,7 @@ def PrepareIndex(db):
             from schedule
             where weekday in ('M', 'T', 'W', 'R', 'F')
     ''')
-    print "R: %.2f seconds" % (time() - start)
+    print("R: %.2f seconds" % (time() - start))
 
     #
     # Create all occupied intervals
@@ -97,7 +97,7 @@ def PrepareIndex(db):
         "I.endhour  *60 + I.endmin")))
     c.execute("create index I_O on O(room, weekday, i)")
     db.commit()
-    print "O: %.2f seconds" % (time() - start)
+    print("O: %.2f seconds" % (time() - start))
 
     #
     # Create all free intervals 
@@ -116,7 +116,7 @@ def PrepareIndex(db):
                 and days.weekday = O.weekday 
                 and I.i = O.i
     ''')
-    print "F: %.2f seconds" % (time() - start)
+    print("F: %.2f seconds" % (time() - start))
     db.commit()
 
 if __name__ == '__main__':

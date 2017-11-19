@@ -90,8 +90,14 @@ def download(semester, subjs):
     text = None
 
     log("Downloading from %s" % url)
+    
     r = requests.post(url, data=formdata)
     text = r.text
+    with open("/tmp/mycampus.r", "w") as f:
+        f.write(text)
+
+    #with open("/tmp/mycampus.r", "r") as f:
+    #    text = f.read()
 
     log("Parsing using html5lib...")
     return BeautifulSoup(text, 'html5lib')
@@ -148,7 +154,7 @@ def Date(x):
     try:
         d0, d1 = daterange.split("-", 1)
         d0, d1 = d0.strip(), d1.strip()
-    except Exception, e:
+    except Exception as e:
         d0, d1 = None, None
     return (d0, d1)
 
@@ -165,6 +171,7 @@ def Instructor(x):
 def Schedule(table, ctx, db):
     entries = list(table.find_all('td', class_='dbdefault'))
     while entries:
+        _week_    = entries.pop(0)
         ctx.time    = Time(entries.pop(0))
         ctx.days    = Days(entries.pop(0))
         ctx.where   = Where(entries.pop(0))
@@ -260,8 +267,8 @@ def insert(db, ctx):
             endtime   = datetime.strptime(end, "%I:%M %p")
             starthour, startmin = starttime.hour, starttime.minute
             endhour, endmin = endtime.hour, endtime.minute
-        except Exception, e:
-            print "DATETIME ERROR for", (ctx.time, str(e))
+        except Exception as e:
+            print("DATETIME ERROR for", (ctx.time, str(e)))
     weekdays = list(ctx.days)
     room = ctx.where
     d0, d1 = ctx.date
@@ -413,7 +420,7 @@ if __name__ == '__main__':
 
     while args.loop:
         delay = float(args.loop) * 3600
-        print "[%s] Next download in %.2f seconds" % (datetime.now(), delay)
+        print("[%s] Next download in %.2f seconds" % (datetime.now(), delay))
         sleep(delay)
         dl(dbname + "swp", args)
         shutil.move(dbname + "swp", dbname)
