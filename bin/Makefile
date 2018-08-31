@@ -1,5 +1,6 @@
 timestamp = $(shell date +'%Y-%m-%d')
 all:
+	echo $(timestamp)
 	python dl-to-sqlite.py --db ../databases/$(timestamp).sqlite3 --semester all
 
 test:
