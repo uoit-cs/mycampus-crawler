@@ -10,8 +10,10 @@ test:
 debug:
 	python -i dl-to-sqlite.py --db test.sqlite3 --semester 201701
 
-NOW = 201909
+NOW = 202001
 now:
+	echo "$(NOW).sqlite3"
+	rm -f $(NOW).sqlite3
 	python dl-to-sqlite.py --db $(NOW).sqlite3 --semester $(NOW)
 
 clean:

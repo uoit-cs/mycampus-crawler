@@ -90,8 +90,8 @@ def schedule(dbname, semester, avoid,
     sql += " limit %s" % DATA_LIMIT
 
     if debug:
-        print "avoid:", avoid
-        print "sql:", sql, param
+        print("avoid:", avoid)
+        print("sql:", sql, param)
 
     c.execute(sql, param)
 
@@ -164,14 +164,14 @@ def format_answer(answer):
     return "\n".join(lines)
 
 def parse_avoid(avoid):
-    print "parse_avoid", avoid
+    print("parse_avoid", avoid)
     result = []
     for x in avoid.split(","):
         m = re.match(r'([A-Z]+)\s*(\d+)', x.upper())
         if m:
             result.append('%s %sU' % (m.group(1).strip(), m.group(2).strip()))
 
-    print "Result:", result
+    print("Result:", result)
     return result
 
 def search(dbname, semester, search):
@@ -228,7 +228,7 @@ def search(dbname, semester, search):
         ''' % (",".join("%s as %s" % (x[1],x[0]) for x in columns.items()), like)
     param = [semester]
 
-    print "sql", sql
+    print("sql", sql)
 
     c.execute(sql, param)
 
@@ -260,7 +260,7 @@ if __name__ == '__main__':
     avoid_string = args.avoid if args.avoid else ""
 
     if not args.dbname or not args.semester:
-        p.print_usage()
+        p.print(usage())
         sys.exit()
 
     if args.duration:
@@ -283,6 +283,6 @@ if __name__ == '__main__':
         debug=args.debug)
 
     if len(answer) > DATA_LIMIT:
-        print "Too many to show: %d" % len(answer)
+        print("Too many to show: %d" % len(answer))
     else:
-        print format_answer(answer)
+        print(format_answer(answer))

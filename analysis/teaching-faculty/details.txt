@@ -1,0 +1,1604 @@
+year        lastname              firstname        code        schtype               students  
+----------  --------------------  ---------------  ----------  --------------------  ----------
+2015-2016   Adler                 Marc             BIOL 2080U  Lecture               54        
+2015-2016   Adler                 Marc             BIOL 2080U  Lecture               54        
+2015-2016   Adler                 Marc             BIOL 2080U  Lecture               54        
+2015-2016   Adler                 Marc             BIOL 2080U  Lecture               69        
+2015-2016   Adler                 Marc             BIOL 2080U  Lecture               69        
+2015-2016   Adler                 Marc             CHEM 1020U  Lecture               131       
+2015-2016   Adler                 Marc             CHEM 1020U  Lecture               131       
+2015-2016   Adler                 Marc             CHEM 1020U  Lecture               212       
+2015-2016   Adler                 Marc             CHEM 1020U  Lecture               212       
+2016-2017   Adler                 Marc             CHEM 2020U  Lecture               46        
+2016-2017   Adler                 Marc             CHEM 2020U  Lecture               46        
+2016-2017   Adler                 Marc             CHEM 2020U  Lecture               98        
+2016-2017   Adler                 Marc             CHEM 2020U  Lecture               98        
+2016-2017   Adler                 Marc             CHEM 2120U  Lecture               67        
+2016-2017   Adler                 Marc             CHEM 2120U  Lecture               67        
+2016-2017   Adler                 Marc             CHEM 2120U  Lecture               96        
+2016-2017   Adler                 Marc             CHEM 2120U  Lecture               96        
+2014-2015   Bardin                Sylvie           BIOL 3032U  Laboratory            13        
+2014-2015   Bardin                Sylvie           BIOL 4040U  Lecture               28        
+2014-2015   Bardin                Sylvie           BIOL 4040U  Lecture               28        
+2014-2015   Bardin                Sylvie           BIOL 3010U  Lecture & Lab         7         
+2014-2015   Bardin                Sylvie           BIOL 3010U  Lecture & Lab         7         
+2015-2016   Bardin                Sylvie           BIOL 3032U  Laboratory            18        
+2015-2016   Bardin                Sylvie           BIOL 3032U  Other                 18        
+2015-2016   Bardin                Sylvie           BIOL 3032U  Other                 18        
+2015-2016   Bardin                Sylvie           BIOL 3032U  Other                 18        
+2015-2016   Bardin                Sylvie           BIOL 3010U  Lecture & Lab         7         
+2015-2016   Bardin                Sylvie           BIOL 3010U  Lecture & Lab         7         
+2016-2017   Bardin                Sylvie           BIOL 3032U  Laboratory            15        
+2016-2017   Bardin                Sylvie           BIOL 3032U  Other                 15        
+2016-2017   Bardin                Sylvie           BIOL 3032U  Other                 15        
+2016-2017   Bardin                Sylvie           BIOL 3010U  Lecture & Lab         8         
+2016-2017   Bardin                Sylvie           BIOL 3010U  Lecture & Lab         8         
+2014-2015   Bartholomew           Richard          CHEM 2030U  Lecture               60        
+2014-2015   Bartholomew           Richard          CHEM 2030U  Lecture               60        
+2014-2015   Bartholomew           Richard          CHEM 2130U  Lecture               42        
+2014-2015   Bartholomew           Richard          CHEM 2130U  Lecture               42        
+2014-2015   Bartholomew           Richard          CHEM 4060U  Lecture               13        
+2014-2015   Bartholomew           Richard          CHEM 4060U  Lecture               13        
+2015-2016   Bartholomew           Richard          CHEM 2030U  Lecture               57        
+2015-2016   Bartholomew           Richard          CHEM 2030U  Lecture               57        
+2015-2016   Bartholomew           Richard          CHEM 2130U  Lecture               23        
+2015-2016   Bartholomew           Richard          CHEM 2130U  Lecture               23        
+2015-2016   Bartholomew           Richard          CHEM 3830U  Lecture               17        
+2015-2016   Bartholomew           Richard          CHEM 3830U  Lecture               17        
+2015-2016   Bartholomew           Richard          CHEM 3830U  Lecture               17        
+2015-2016   Bartholomew           Richard          CHEM 3830U  Lecture               17        
+2016-2017   Bartholomew           Richard          CHEM 2030U  Lecture               55        
+2016-2017   Bartholomew           Richard          CHEM 2030U  Lecture               55        
+2016-2017   Bartholomew           Richard          CHEM 2130U  Lecture               31        
+2016-2017   Bartholomew           Richard          CHEM 2130U  Lecture               31        
+2016-2017   Bartholomew           Richard          CHEM 3830U  Lecture               20        
+2016-2017   Bartholomew           Richard          CHEM 3830U  Lecture               20        
+2016-2017   Bartholomew           Richard          CHEM 3830U  Lecture               20        
+2014-2015   Beligan               Mihai            CSCI 2110U  Lecture               31        
+2014-2015   Beligan               Mihai            CSCI 2110U  Lecture               31        
+2014-2015   Beligan               Mihai            MATH 1850U  Lecture               223       
+2014-2015   Beligan               Mihai            MATH 1850U  Lecture               223       
+2014-2015   Beligan               Mihai            MATH 2080U  Lecture               13        
+2014-2015   Beligan               Mihai            MATH 2080U  Lecture               13        
+2014-2015   Beligan               Mihai            MATH 2860U  Lecture               149       
+2014-2015   Beligan               Mihai            MATH 2860U  Lecture               149       
+2014-2015   Beligan               Mihai            MATH 2860U  Lecture               238       
+2014-2015   Beligan               Mihai            MATH 2860U  Lecture               238       
+2014-2015   Beligan               Mihai            MATH 1020U  Lecture               187       
+2014-2015   Beligan               Mihai            MATH 1020U  Lecture               187       
+2014-2015   Beligan               Mihai            MATH 1020U  Lecture               198       
+2014-2015   Beligan               Mihai            MATH 1020U  Lecture               198       
+2014-2015   Beligan               Mihai            MATH 2050U  Lecture               77        
+2014-2015   Beligan               Mihai            MATH 2050U  Lecture               77        
+2014-2015   Beligan               Mihai            MATH 3070U  Lecture               8         
+2014-2015   Beligan               Mihai            MATH 3070U  Lecture               8         
+2015-2016   Beligan               Mihai            CSCI 2110U  Lecture               40        
+2015-2016   Beligan               Mihai            CSCI 2110U  Lecture               40        
+2015-2016   Beligan               Mihai            CSCI 2110U  Lecture               40        
+2015-2016   Beligan               Mihai            MATH 1850U  Lecture               204       
+2015-2016   Beligan               Mihai            MATH 1850U  Lecture               204       
+2015-2016   Beligan               Mihai            MATH 2080U  Lecture               19        
+2015-2016   Beligan               Mihai            MATH 2080U  Lecture               19        
+2015-2016   Beligan               Mihai            MATH 2080U  Lecture               19        
+2015-2016   Beligan               Mihai            MATH 2860U  Lecture               171       
+2015-2016   Beligan               Mihai            MATH 2860U  Lecture               171       
+2015-2016   Beligan               Mihai            MATH 2860U  Lecture               171       
+2015-2016   Beligan               Mihai            MATH 2860U  Lecture               206       
+2015-2016   Beligan               Mihai            MATH 2860U  Lecture               206       
+2015-2016   Beligan               Mihai            MATH 2860U  Lecture               206       
+2015-2016   Beligan               Mihai            MATH 1020U  Lecture               173       
+2015-2016   Beligan               Mihai            MATH 1020U  Lecture               173       
+2015-2016   Beligan               Mihai            MATH 1020U  Lecture               177       
+2015-2016   Beligan               Mihai            MATH 1020U  Lecture               177       
+2015-2016   Beligan               Mihai            MATH 2055U  Lecture               15        
+2015-2016   Beligan               Mihai            MATH 2055U  Lecture               15        
+2016-2017   Beligan               Mihai            CSCI 2110U  Lecture               50        
+2016-2017   Beligan               Mihai            CSCI 2110U  Lecture               50        
+2016-2017   Beligan               Mihai            MATH 1010U  Lecture               208       
+2016-2017   Beligan               Mihai            MATH 1010U  Lecture               208       
+2016-2017   Beligan               Mihai            MATH 1010U  Lecture               214       
+2016-2017   Beligan               Mihai            MATH 1010U  Lecture               214       
+2016-2017   Beligan               Mihai            MATH 2080U  Lecture               10        
+2016-2017   Beligan               Mihai            MATH 2080U  Lecture               10        
+2016-2017   Beligan               Mihai            MATH 2860U  Lecture               228       
+2016-2017   Beligan               Mihai            MATH 2860U  Lecture               228       
+2016-2017   Beligan               Mihai            MATH 2050U  Lecture               81        
+2016-2017   Beligan               Mihai            MATH 2050U  Lecture               81        
+2016-2017   Beligan               Mihai            MATH 2055U  Lecture               8         
+2016-2017   Beligan               Mihai            MATH 2055U  Lecture               8         
+2016-2017   Beligan               Mihai            MATH 2060U  Lecture               21        
+2016-2017   Beligan               Mihai            MATH 2060U  Lecture               21        
+2016-2017   Beligan               Mihai            MATH 3070U  Lecture               12        
+2016-2017   Beligan               Mihai            MATH 3070U  Lecture               12        
+2014-2015   Bergeron              Nancy            MLSC 3121U  Laboratory            17        
+2014-2015   Bergeron              Nancy            MLSC 3121U  Laboratory            19        
+2014-2015   Bergeron              Nancy            MLSC 3121U  Lecture               36        
+2014-2015   Bergeron              Nancy            MLSC 3221U  Laboratory            19        
+2014-2015   Bergeron              Nancy            MLSC 3221U  Laboratory            19        
+2014-2015   Bergeron              Nancy            MLSC 3221U  Lecture               38        
+2014-2015   Bergeron              Nancy            MLSC 2121U  Laboratory            18        
+2014-2015   Bergeron              Nancy            MLSC 2121U  Laboratory            19        
+2014-2015   Bergeron              Nancy            MLSC 2121U  Lecture               37        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         38        
+2015-2016   Bergeron              Nancy            MLSC 3121U  Laboratory            18        
+2015-2016   Bergeron              Nancy            MLSC 3121U  Laboratory            20        
+2015-2016   Bergeron              Nancy            MLSC 3121U  Lecture               38        
+2015-2016   Bergeron              Nancy            MLSC 3221U  Laboratory            18        
+2015-2016   Bergeron              Nancy            MLSC 3221U  Laboratory            19        
+2015-2016   Bergeron              Nancy            MLSC 3221U  Lecture               37        
+2015-2016   Bergeron              Nancy            MLSC 3221U  Lecture               37        
+2015-2016   Bergeron              Nancy            MLSC 2121U  Laboratory            19        
+2015-2016   Bergeron              Nancy            MLSC 2121U  Laboratory            20        
+2015-2016   Bergeron              Nancy            MLSC 2121U  Lecture               39        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2015-2016   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         15        
+2016-2017   Bergeron              Nancy            MLSC 3121U  Laboratory            20        
+2016-2017   Bergeron              Nancy            MLSC 3121U  Laboratory            21        
+2016-2017   Bergeron              Nancy            MLSC 3121U  Lecture               41        
+2016-2017   Bergeron              Nancy            MLSC 3221U  Laboratory            20        
+2016-2017   Bergeron              Nancy            MLSC 3221U  Laboratory            21        
+2016-2017   Bergeron              Nancy            MLSC 3221U  Lecture               41        
+2016-2017   Bergeron              Nancy            MLSC 2121U  Laboratory            15        
+2016-2017   Bergeron              Nancy            MLSC 2121U  Laboratory            19        
+2016-2017   Bergeron              Nancy            MLSC 2121U  Lecture               34        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         14        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2016-2017   Bergeron              Nancy            MLSC 3300U  Lecture & Lab         18        
+2014-2015   Bourne                Lavern           MLSC 2130U  Lecture               59        
+2014-2015   Bourne                Lavern           MLSC 3121U  Laboratory            17        
+2014-2015   Bourne                Lavern           MLSC 3121U  Laboratory            19        
+2014-2015   Bourne                Lavern           MLSC 3121U  Lecture               36        
+2014-2015   Bourne                Lavern           MLSC 3221U  Laboratory            19        
+2014-2015   Bourne                Lavern           MLSC 3221U  Laboratory            19        
+2014-2015   Bourne                Lavern           MLSC 3221U  Lecture               38        
+2014-2015   Bourne                Lavern           MLSC 2121U  Lecture               37        
+2014-2015   Bourne                Lavern           MLSC 3220U  Laboratory            17        
+2014-2015   Bourne                Lavern           MLSC 3220U  Laboratory            21        
+2014-2015   Bourne                Lavern           MLSC 3220U  Lecture               38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Bourne                Lavern           MLSC 3300U  Lecture & Lab         38        
+2015-2016   Bourne                Lavern           MLSC 2130U  Lecture               39        
+2015-2016   Bourne                Lavern           MLSC 2130U  Lecture               39        
+2015-2016   Bourne                Lavern           MLSC 3121U  Laboratory            18        
+2015-2016   Bourne                Lavern           MLSC 3121U  Laboratory            20        
+2015-2016   Bourne                Lavern           MLSC 3221U  Laboratory            18        
+2015-2016   Bourne                Lavern           MLSC 3221U  Laboratory            19        
+2015-2016   Bourne                Lavern           MLSC 3221U  Lecture               37        
+2015-2016   Bourne                Lavern           MLSC 3221U  Lecture               37        
+2015-2016   Bourne                Lavern           MLSC 2121U  Laboratory            19        
+2015-2016   Bourne                Lavern           MLSC 2121U  Laboratory            20        
+2015-2016   Bourne                Lavern           MLSC 3220U  Laboratory            16        
+2015-2016   Bourne                Lavern           MLSC 3220U  Laboratory            17        
+2015-2016   Bourne                Lavern           MLSC 3220U  Lecture               33        
+2016-2017   Bourne                Lavern           MLSC 2130U  Lecture               31        
+2016-2017   Bourne                Lavern           MLSC 3121U  Laboratory            20        
+2016-2017   Bourne                Lavern           MLSC 3121U  Laboratory            21        
+2016-2017   Bourne                Lavern           MLSC 3221U  Laboratory            20        
+2016-2017   Bourne                Lavern           MLSC 3221U  Laboratory            21        
+2016-2017   Bourne                Lavern           MLSC 3221U  Lecture               41        
+2016-2017   Bourne                Lavern           MLSC 2121U  Laboratory            15        
+2016-2017   Bourne                Lavern           MLSC 2121U  Laboratory            19        
+2016-2017   Bourne                Lavern           MLSC 3220U  Laboratory            16        
+2016-2017   Bourne                Lavern           MLSC 3220U  Laboratory            16        
+2016-2017   Bourne                Lavern           MLSC 3220U  Lecture               32        
+2014-2015   Braithwaite           Andrea           COMM 2110U  Lecture               33        
+2014-2015   Braithwaite           Andrea           COMM 3710U  Lecture               48        
+2014-2015   Braithwaite           Andrea           COMM 3710U  Lecture               54        
+2014-2015   Braithwaite           Andrea           COMM 3740U  Lecture               40        
+2014-2015   Braithwaite           Andrea           COMM 2220U  Lecture               50        
+2014-2015   Braithwaite           Andrea           COMM 2240U  Lecture               37        
+2014-2015   Braithwaite           Andrea           COMM 2410U  Lecture               45        
+2014-2015   Braithwaite           Andrea           COMM 3250U  Lecture               49        
+2015-2016   Braithwaite           Andrea           COMM 1100U  Lecture               71        
+2015-2016   Braithwaite           Andrea           COMM 2110U  Lecture               39        
+2015-2016   Braithwaite           Andrea           COMM 2210U  Lecture               35        
+2015-2016   Braithwaite           Andrea           COMM 3740U  Lecture               27        
+2015-2016   Braithwaite           Andrea           COMM 2220U  Lecture               40        
+2015-2016   Braithwaite           Andrea           COMM 2240U  Lecture               59        
+2015-2016   Braithwaite           Andrea           COMM 2410U  Lecture               37        
+2015-2016   Braithwaite           Andrea           COMM 3250U  Lecture               59        
+2016-2017   Braithwaite           Andrea           COMM 1100U  Lecture               75        
+2016-2017   Braithwaite           Andrea           COMM 1100U  Lecture               77        
+2016-2017   Braithwaite           Andrea           COMM 2210U  Lecture               36        
+2016-2017   Braithwaite           Andrea           COMM 3740U  Lecture               25        
+2016-2017   Braithwaite           Andrea           COMM 2220U  Lecture               48        
+2016-2017   Braithwaite           Andrea           COMM 2240U  Lecture               55        
+2016-2017   Braithwaite           Andrea           COMM 2410U  Lecture               38        
+2016-2017   Braithwaite           Andrea           COMM 3250U  Lecture               87        
+2014-2015   Brar                  Rupinder         PHY 1010U   Lecture               231       
+2014-2015   Brar                  Rupinder         PHY 1010U   Lecture               231       
+2014-2015   Brar                  Rupinder         PHY 1010U   Lecture               241       
+2014-2015   Brar                  Rupinder         PHY 1010U   Lecture               241       
+2014-2015   Brar                  Rupinder         SCIE 1920U  Lecture               184       
+2014-2015   Brar                  Rupinder         SCIE 3920U  Lecture               68        
+2014-2015   Brar                  Rupinder         PHY 1040U   Lecture               154       
+2014-2015   Brar                  Rupinder         PHY 1040U   Lecture               154       
+2014-2015   Brar                  Rupinder         PHY 2900U   Lecture               134       
+2014-2015   Brar                  Rupinder         PHY 3900U   Lecture               36        
+2015-2016   Brar                  Rupinder         PHY 1010U   Lecture               239       
+2015-2016   Brar                  Rupinder         PHY 1010U   Lecture               239       
+2015-2016   Brar                  Rupinder         PHY 1010U   Lecture               239       
+2015-2016   Brar                  Rupinder         PHY 1010U   Lecture               244       
+2015-2016   Brar                  Rupinder         PHY 1010U   Lecture               244       
+2015-2016   Brar                  Rupinder         PHY 1010U   Lecture               244       
+2015-2016   Brar                  Rupinder         PHY 2060U   Lecture               15        
+2015-2016   Brar                  Rupinder         PHY 2060U   Lecture               15        
+2015-2016   Brar                  Rupinder         PHY 2060U   Lecture               15        
+2015-2016   Brar                  Rupinder         SCIE 3920U  Lecture               36        
+2016-2017   Brar                  Rupinder         PHY 1030U   Lecture               84        
+2016-2017   Brar                  Rupinder         PHY 1030U   Lecture               84        
+2016-2017   Brar                  Rupinder         PHY 2060U   Lecture               15        
+2016-2017   Brar                  Rupinder         PHY 2060U   Lecture               15        
+2016-2017   Brar                  Rupinder         SCIE 1920U  Lecture               204       
+2016-2017   Brar                  Rupinder         PHY 1020U   Lecture               250       
+2016-2017   Brar                  Rupinder         PHY 1020U   Lecture               250       
+2016-2017   Brar                  Rupinder         PHY 2900U   Lecture               150       
+2016-2017   Brar                  Rupinder         PHY 3900U   Lecture               19        
+2016-2017   Brar                  Rupinder         PHY 3900U   Lecture               19        
+2016-2017   Brar                  Rupinder         PHY 4910U   Lecture               5         
+2016-2017   Brar                  Rupinder         PHY 4910U   Lecture               5         
+2015-2016   Coulter               Kevin            CHEM 4041U  Lecture               11        
+2015-2016   Coulter               Kevin            CHEM 4041U  Lecture               11        
+2015-2016   Coulter               Kevin            CHEM 4041U  Lecture               11        
+2015-2016   Coulter               Kevin            CHEM 1010U  Lecture               95        
+2015-2016   Coulter               Kevin            CHEM 1010U  Lecture               95        
+2015-2016   Coulter               Kevin            CHEM 1010U  Lecture               95        
+2016-2017   Coulter               Kevin            CHEM 4041U  Lecture               8         
+2016-2017   Coulter               Kevin            CHEM 4041U  Lecture               8         
+2014-2015   Farzam                Masoud           ELEE 2450U  Lecture               121       
+2014-2015   Farzam                Masoud           ELEE 2450U  Lecture               121       
+2014-2015   Finney                Kenneth          INFR 1395U  Lecture               100       
+2014-2015   Finney                Kenneth          INFR 2395U  Lecture               74        
+2014-2015   Finney                Kenneth          INFR 3395U  Lecture               54        
+2014-2015   Hall                  Athina           BUSI 2160U  Lecture               47        
+2014-2015   Hall                  Athina           BUSI 2160U  Lecture               49        
+2014-2015   Hall                  Athina           BUSI 3101U  Tutorial              43        
+2014-2015   Hall                  Athina           BUSI 3101U  Tutorial              47        
+2014-2015   Hall                  Athina           BUSI 2160U  Lecture               43        
+2014-2015   Hall                  Athina           BUSI 2160U  Lecture               57        
+2014-2015   Hall                  Athina           BUSI 3102U  Tutorial              29        
+2014-2015   Hall                  Athina           BUSI 3102U  Tutorial              30        
+2015-2016   Hall                  Athina           BUSI 1101U  Lecture               39        
+2015-2016   Hall                  Athina           BUSI 1101U  Lecture               39        
+2015-2016   Hall                  Athina           BUSI 1101U  Lecture               39        
+2015-2016   Hall                  Athina           BUSI 2160U  Lecture               10        
+2015-2016   Hall                  Athina           BUSI 2160U  Lecture               26        
+2015-2016   Hall                  Athina           BUSI 2160U  Lecture               48        
+2015-2016   Hall                  Athina           BUSI 2160U  Lecture               59        
+2015-2016   Hall                  Athina           BUSI 2160U  Lecture               36        
+2015-2016   Hall                  Athina           BUSI 2160U  Lecture               38        
+2015-2016   Hall                  Athina           BUSI 3102U  Tutorial              37        
+2015-2016   Hall                  Athina           BUSI 3102U  Tutorial              49        
+2014-2015   Harel                 Jordan           SSCI 1000U  Lecture               158       
+2014-2015   Harel                 Jordan           SSCI 1000U  Lecture               239       
+2014-2015   Harel                 Jordan           SSCI 2030U  Lecture               93        
+2014-2015   Harel                 Jordan           SSCI 2030U  Lecture               94        
+2014-2015   Harel                 Jordan           SSCI 2810U  Lecture               147       
+2014-2015   Harel                 Jordan           SSCI 2810U  Lecture               151       
+2014-2015   Harel                 Jordan           SSCI 3026U  Lecture               94        
+2015-2016   Harel                 Jordan           SSCI 1000U  Lecture               145       
+2015-2016   Harel                 Jordan           SSCI 1000U  Lecture               203       
+2015-2016   Harel                 Jordan           SSCI 2030U  Lecture               99        
+2015-2016   Harel                 Jordan           SSCI 2030U  Lecture               118       
+2015-2016   Harel                 Jordan           SSCI 2810U  Lecture               145       
+2015-2016   Harel                 Jordan           SSCI 2810U  Lecture               146       
+2015-2016   Harel                 Jordan           SSCI 3021U  Lecture               96        
+2015-2016   Harel                 Jordan           SSCI 3021U  Lecture               96        
+2015-2016   Harel                 Jordan           SSCI 3026U  Lecture               94        
+2016-2017   Harel                 Jordan           SSCI 1000U  Lecture               144       
+2016-2017   Harel                 Jordan           SSCI 1000U  Lecture               198       
+2016-2017   Harel                 Jordan           SSCI 2030U  Lecture               109       
+2016-2017   Harel                 Jordan           SSCI 2030U  Lecture               109       
+2016-2017   Harel                 Jordan           SSCI 2810U  Lecture               111       
+2016-2017   Harel                 Jordan           SSCI 2810U  Lecture               150       
+2016-2017   Harel                 Jordan           SSCI 3021U  Lecture               95        
+2016-2017   Harel                 Jordan           SSCI 3026U  Lecture               95        
+2014-2015   Hosseini              Sayyed Ali       ENGR 2220U  Lecture               29        
+2014-2015   Hosseini              Sayyed Ali       ENGR 2220U  Lecture               29        
+2014-2015   Hosseini              Sayyed Ali       MANE 2220U  Lecture               46        
+2014-2015   Hosseini              Sayyed Ali       MANE 2220U  Lecture               46        
+2014-2015   Hosseini              Sayyed Ali       MANE 4390U  Lecture               6         
+2014-2015   Hosseini              Sayyed Ali       MANE 4390U  Lecture               6         
+2014-2015   Hosseini              Sayyed Ali       MECE 2310U  Lecture               122       
+2014-2015   Hosseini              Sayyed Ali       MECE 2310U  Lecture               122       
+2014-2015   Hosseini              Sayyed Ali       MECE 3270U  Lecture               80        
+2014-2015   Hosseini              Sayyed Ali       MECE 3270U  Lecture               80        
+2014-2015   Hosseini              Sayyed Ali       ENGR 1025U  Lecture               187       
+2014-2015   Hosseini              Sayyed Ali       ENGR 1025U  Lecture               187       
+2014-2015   Hosseini              Sayyed Ali       MANE 3300U  Lecture               24        
+2014-2015   Hosseini              Sayyed Ali       MANE 3300U  Lecture               24        
+2014-2015   Hosseini              Sayyed Ali       MANE 4015U  Lecture               10        
+2014-2015   Hosseini              Sayyed Ali       MANE 4015U  Lecture               10        
+2014-2015   Hosseini              Sayyed Ali       MANE 4045U  Lecture               42        
+2014-2015   Hosseini              Sayyed Ali       MANE 4045U  Lecture               42        
+2015-2016   Hosseini              Sayyed Ali       MANE 3190U  Lecture               83        
+2015-2016   Hosseini              Sayyed Ali       MANE 3190U  Lecture               83        
+2015-2016   Hosseini              Sayyed Ali       MANE 3190U  Lecture               83        
+2015-2016   Hosseini              Sayyed Ali       MANE 3190U  Lecture               119       
+2015-2016   Hosseini              Sayyed Ali       MANE 3190U  Lecture               119       
+2015-2016   Hosseini              Sayyed Ali       MANE 4390U  Lecture               8         
+2015-2016   Hosseini              Sayyed Ali       MANE 4390U  Lecture               8         
+2015-2016   Hosseini              Sayyed Ali       MANE 4390U  Lecture               8         
+2015-2016   Hosseini              Sayyed Ali       MANE 4015U  Lecture               5         
+2015-2016   Hosseini              Sayyed Ali       MANE 4015U  Lecture               5         
+2015-2016   Hosseini              Sayyed Ali       MANE 4045U  Lecture               42        
+2015-2016   Hosseini              Sayyed Ali       MANE 4045U  Lecture               42        
+2015-2016   Hosseini              Sayyed Ali       MANE 4045U  Lecture               42        
+2015-2016   Hosseini              Sayyed Ali       MANE 4190U  Lecture               10        
+2015-2016   Hosseini              Sayyed Ali       MANE 4190U  Lecture               10        
+2015-2016   Hosseini              Sayyed Ali       MANE 4190U  Lecture               10        
+2015-2016   Hosseini              Sayyed Ali       MECE 2420U  Lecture               135       
+2015-2016   Hosseini              Sayyed Ali       MECE 2420U  Lecture               135       
+2015-2016   Hosseini              Sayyed Ali       MECE 2420U  Lecture               135       
+2015-2016   Hosseini              Sayyed Ali       MECE 2430U  Lecture               123       
+2015-2016   Hosseini              Sayyed Ali       MECE 2430U  Lecture               123       
+2016-2017   Hosseini              Sayyed Ali       MANE 3190U  Lecture               112       
+2016-2017   Hosseini              Sayyed Ali       MANE 3190U  Lecture               112       
+2016-2017   Hosseini              Sayyed Ali       MANE 3190U  Lecture               121       
+2016-2017   Hosseini              Sayyed Ali       MANE 3190U  Lecture               121       
+2016-2017   Hosseini              Sayyed Ali       MANE 4390U  Lecture               3         
+2016-2017   Hosseini              Sayyed Ali       MANE 4390U  Lecture               3         
+2016-2017   Hosseini              Sayyed Ali       MECE 3270U  Lecture               114       
+2016-2017   Hosseini              Sayyed Ali       MECE 3270U  Lecture               114       
+2016-2017   Hosseini              Sayyed Ali       ENGR 1015U  Lecture               32        
+2016-2017   Hosseini              Sayyed Ali       ENGR 1015U  Lecture               32        
+2016-2017   Hosseini              Sayyed Ali       MANE 3300U  Lecture               18        
+2016-2017   Hosseini              Sayyed Ali       MANE 3300U  Lecture               18        
+2016-2017   Hosseini              Sayyed Ali       MANE 4015U  Lecture               8         
+2016-2017   Hosseini              Sayyed Ali       MANE 4015U  Lecture               8         
+2016-2017   Hosseini              Sayyed Ali       MANE 4190U  Lecture               14        
+2016-2017   Hosseini              Sayyed Ali       MANE 4190U  Lecture               14        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               55        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               55        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               59        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               59        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               65        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               65        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               67        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               67        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               68        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               68        
+2014-2015   Ibrahim               Amin             BUSI 1916U  Tutorial              93        
+2014-2015   Ibrahim               Amin             CSCI 5310G  Lecture               4         
+2014-2015   Ibrahim               Amin             ENGR 5670G  Lecture               10        
+2014-2015   Ibrahim               Amin             INFR 3600U  Lecture               48        
+2014-2015   Ibrahim               Amin             INFR 3600U  Lecture               48        
+2014-2015   Ibrahim               Amin             MITS 5500G  Lecture               11        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               36        
+2014-2015   Ibrahim               Amin             BUSI 1520U  Lecture               36        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               60        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               60        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               60        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               61        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               61        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               61        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               62        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               62        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               62        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               62        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               62        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               62        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               63        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               63        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               64        
+2015-2016   Ibrahim               Amin             BUSI 1520U  Lecture               64        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               55        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               55        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               56        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               56        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               67        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               67        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               68        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               68        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               72        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               72        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               75        
+2016-2017   Ibrahim               Amin             BUSI 1520U  Lecture               75        
+2016-2017   Ibrahim               Amin             BUSI 1916U  Lecture               39        
+2016-2017   Ibrahim               Amin             BUSI 1916U  Lecture               74        
+2016-2017   Ibrahim               Amin             BUSI 1916U  Lecture               75        
+2016-2017   Ibrahim               Amin             INFR 1100U  Lecture               26        
+2014-2015   Johnson               Kerry            HLSC 1701U  Lecture               22        
+2014-2015   Johnson               Kerry            HLSC 1701U  Lecture               28        
+2014-2015   Johnson               Kerry            HLSC 1701U  Lecture               29        
+2014-2015   Johnson               Kerry            HLSC 1701U  Lecture               35        
+2014-2015   Johnson               Kerry            HLSC 2201U  Lecture               56        
+2014-2015   Johnson               Kerry            HLSC 4620U  Lecture               46        
+2014-2015   Johnson               Kerry            HLSC 4620U  Lecture               48        
+2015-2016   Johnson               Kerry            HLSC 1300U  Lecture               75        
+2015-2016   Johnson               Kerry            HLSC 1300U  Lecture               82        
+2015-2016   Johnson               Kerry            HLSC 1701U  Lecture               101       
+2015-2016   Johnson               Kerry            HLSC 1701U  Lecture               101       
+2015-2016   Johnson               Kerry            HLSC 2201U  Lecture               66        
+2015-2016   Johnson               Kerry            HLSC 2601U  Lecture               48        
+2015-2016   Johnson               Kerry            HLSC 2601U  Lecture               48        
+2016-2017   Johnson               Kerry            HLSC 1701U  Lecture               73        
+2016-2017   Johnson               Kerry            HLSC 1701U  Lecture               75        
+2016-2017   Johnson               Kerry            HLSC 1701U  Lecture               85        
+2016-2017   Johnson               Kerry            HLSC 2201U  Lecture               68        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Lecture               71        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Lecture               71        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Tutorial              71        
+2014-2015   Jones                 Ferdinand        BUSI 3110U  Lecture               37        
+2014-2015   Jones                 Ferdinand        BUSI 3110U  Lecture               37        
+2014-2015   Jones                 Ferdinand        BUSI 3110U  Tutorial              37        
+2014-2015   Jones                 Ferdinand        BUSI 3110U  Lecture               46        
+2014-2015   Jones                 Ferdinand        BUSI 3110U  Lecture               46        
+2014-2015   Jones                 Ferdinand        BUSI 3110U  Tutorial              46        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Tutorial              23        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Tutorial              27        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Tutorial              67        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Lecture               97        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Lecture               97        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Tutorial              97        
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Lecture               117       
+2014-2015   Jones                 Ferdinand        BUSI 2170U  Lecture               117       
+2014-2015   Jones                 Ferdinand        BUSI 3120U  Tutorial              9         
+2014-2015   Jones                 Ferdinand        BUSI 3120U  Lecture               22        
+2014-2015   Jones                 Ferdinand        BUSI 3120U  Lecture               22        
+2014-2015   Jones                 Ferdinand        BUSI 3120U  Lecture               33        
+2014-2015   Jones                 Ferdinand        BUSI 3120U  Lecture               33        
+2014-2015   Jones                 Ferdinand        BUSI 3120U  Tutorial              46        
+2015-2016   Jones                 Ferdinand        BUSI 3110U  Lecture               30        
+2015-2016   Jones                 Ferdinand        BUSI 3110U  Lecture               30        
+2015-2016   Jones                 Ferdinand        BUSI 3110U  Lecture               30        
+2015-2016   Jones                 Ferdinand        BUSI 3110U  Lecture               56        
+2015-2016   Jones                 Ferdinand        BUSI 3110U  Lecture               56        
+2015-2016   Jones                 Ferdinand        BUSI 3110U  Lecture               56        
+2015-2016   Jones                 Ferdinand        BUSI 2170U  Lecture               88        
+2015-2016   Jones                 Ferdinand        BUSI 2170U  Lecture               88        
+2015-2016   Jones                 Ferdinand        BUSI 2170U  Lecture               105       
+2015-2016   Jones                 Ferdinand        BUSI 2170U  Lecture               105       
+2015-2016   Jones                 Ferdinand        BUSI 3120U  Lecture               32        
+2015-2016   Jones                 Ferdinand        BUSI 3120U  Lecture               32        
+2015-2016   Jones                 Ferdinand        BUSI 3120U  Lecture               35        
+2015-2016   Jones                 Ferdinand        BUSI 3120U  Lecture               35        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Lecture               66        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Lecture               66        
+2016-2017   Jones                 Ferdinand        BUSI 3110U  Lecture               34        
+2016-2017   Jones                 Ferdinand        BUSI 3110U  Lecture               34        
+2016-2017   Jones                 Ferdinand        BUSI 3110U  Tutorial              34        
+2016-2017   Jones                 Ferdinand        BUSI 3110U  Lecture               41        
+2016-2017   Jones                 Ferdinand        BUSI 3110U  Lecture               41        
+2016-2017   Jones                 Ferdinand        BUSI 3110U  Tutorial              41        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Tutorial              10        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Tutorial              26        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Tutorial              44        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Tutorial              47        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Tutorial              50        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Tutorial              50        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Lecture               89        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Lecture               89        
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Lecture               138       
+2016-2017   Jones                 Ferdinand        BUSI 2170U  Lecture               138       
+2016-2017   Jones                 Ferdinand        BUSI 3120U  Tutorial              26        
+2016-2017   Jones                 Ferdinand        BUSI 3120U  Lecture               28        
+2016-2017   Jones                 Ferdinand        BUSI 3120U  Lecture               28        
+2016-2017   Jones                 Ferdinand        BUSI 3120U  Lecture               39        
+2016-2017   Jones                 Ferdinand        BUSI 3120U  Lecture               39        
+2016-2017   Jones                 Ferdinand        BUSI 3120U  Tutorial              41        
+2014-2015   Kapoustine            Valeri           ENVS 3020U  Lecture               4         
+2014-2015   Kapoustine            Valeri           PHY 3050U   Lecture               13        
+2014-2015   Kapoustine            Valeri           PHY 3050U   Lecture               13        
+2014-2015   Kapoustine            Valeri           PHY 3030U   Lecture               8         
+2014-2015   Kapoustine            Valeri           PHY 3030U   Lecture               8         
+2015-2016   Kapoustine            Valeri           PHY 3050U   Lecture               12        
+2015-2016   Kapoustine            Valeri           PHY 3050U   Lecture               12        
+2015-2016   Kapoustine            Valeri           PHY 3030U   Lecture               5         
+2015-2016   Kapoustine            Valeri           PHY 3030U   Lecture               5         
+2016-2017   Kapoustine            Valeri           PHY 3050U   Lecture               6         
+2016-2017   Kapoustine            Valeri           PHY 3050U   Lecture               6         
+2016-2017   Kapoustine            Valeri           PHY 3030U   Lecture               4         
+2016-2017   Kapoustine            Valeri           PHY 3030U   Lecture               4         
+2014-2015   Konopaski             Michael          BUSI 1101U  Lecture               10        
+2014-2015   Konopaski             Michael          BUSI 1101U  Tutorial              10        
+2014-2015   Konopaski             Michael          BUSI 1700U  Lecture               95        
+2014-2015   Konopaski             Michael          BUSI 1700U  Lecture               95        
+2014-2015   Konopaski             Michael          BUSI 1700U  Lecture               72        
+2014-2015   Konopaski             Michael          BUSI 1700U  Lecture               72        
+2014-2015   Konopaski             Michael          BUSI 2150U  Lecture               42        
+2014-2015   Konopaski             Michael          BUSI 2150U  Lecture               56        
+2014-2015   Konopaski             Michael          BUSI 2150U  Lecture               57        
+2014-2015   Konopaski             Michael          BUSI 2150U  Lecture               61        
+2015-2016   Konopaski             Michael          BUSI 1700U  Lecture               90        
+2015-2016   Konopaski             Michael          BUSI 1700U  Lecture               90        
+2015-2016   Konopaski             Michael          BUSI 1700U  Lecture               90        
+2015-2016   Konopaski             Michael          BUSI 2150U  Lecture               56        
+2015-2016   Konopaski             Michael          BUSI 2150U  Lecture               56        
+2015-2016   Konopaski             Michael          BUSI 2150U  Tutorial              56        
+2015-2016   Konopaski             Michael          BUSI 1700U  Lecture               96        
+2015-2016   Konopaski             Michael          BUSI 1700U  Lecture               96        
+2015-2016   Konopaski             Michael          BUSI 3750U  Lecture               17        
+2015-2016   Konopaski             Michael          BUSI 3750U  Lecture               17        
+2016-2017   Konopaski             Michael          BUSI 1700U  Lecture               94        
+2016-2017   Konopaski             Michael          BUSI 1700U  Lecture               94        
+2016-2017   Konopaski             Michael          BUSI 1700U  Lecture               110       
+2016-2017   Konopaski             Michael          BUSI 1700U  Lecture               110       
+2016-2017   Konopaski             Michael          BUSI 3750U  Lecture               17        
+2016-2017   Konopaski             Michael          BUSI 3750U  Lecture               17        
+2014-2015   Laffier               Jennifer         EDUC 3455U  Lecture               36        
+2014-2015   Laffier               Jennifer         EDUC 3455U  Lecture               36        
+2014-2015   Laffier               Jennifer         EDUC 3455U  Lecture               36        
+2016-2017   Laffier               Jennifer         EDUC 5199G  Lecture               26        
+2014-2015   Lafreniere            Nelson           CHEM 1010U  Lecture               209       
+2014-2015   Lafreniere            Nelson           CHEM 1010U  Lecture               209       
+2014-2015   Lafreniere            Nelson           CHEM 3530U  Lecture               17        
+2014-2015   Lafreniere            Nelson           CHEM 3530U  Lecture               17        
+2014-2015   Lafreniere            Nelson           FSCI 2020U  Lecture               40        
+2014-2015   Lafreniere            Nelson           FSCI 4410U  Thesis/Project        12        
+2014-2015   Lafreniere            Nelson           FSCI 4430U  Lecture               6         
+2014-2015   Lafreniere            Nelson           CHEM 3830U  Lecture               35        
+2014-2015   Lafreniere            Nelson           CHEM 3830U  Lecture               35        
+2014-2015   Lafreniere            Nelson           FSCI 1010U  Lecture               220       
+2014-2015   Lafreniere            Nelson           FSCI 3040U  Lecture               17        
+2014-2015   Lafreniere            Nelson           FSCI 3040U  Lecture               17        
+2014-2015   Lafreniere            Nelson           FSCI 4420U  Thesis/Project        12        
+2015-2016   Lafreniere            Nelson           CHEM 1010U  Lecture               203       
+2015-2016   Lafreniere            Nelson           CHEM 1010U  Lecture               203       
+2015-2016   Lafreniere            Nelson           CHEM 1010U  Lecture               203       
+2015-2016   Lafreniere            Nelson           CHEM 3530U  Lecture               21        
+2015-2016   Lafreniere            Nelson           CHEM 3530U  Lecture               21        
+2015-2016   Lafreniere            Nelson           CHEM 3530U  Lecture               21        
+2015-2016   Lafreniere            Nelson           FSCI 4410U  Thesis/Project        9         
+2015-2016   Lafreniere            Nelson           FSCI 4430U  Lecture               7         
+2015-2016   Lafreniere            Nelson           CHEM 1800U  Lecture               181       
+2015-2016   Lafreniere            Nelson           CHEM 1800U  Lecture               181       
+2015-2016   Lafreniere            Nelson           FSCI 1010U  Lecture               192       
+2015-2016   Lafreniere            Nelson           FSCI 3040U  Lecture               20        
+2015-2016   Lafreniere            Nelson           FSCI 3040U  Lecture               20        
+2015-2016   Lafreniere            Nelson           FSCI 4420U  Thesis/Project        9         
+2016-2017   Lafreniere            Nelson           FSCI 3010U  Lecture               22        
+2016-2017   Lafreniere            Nelson           FSCI 3010U  Lecture               22        
+2016-2017   Lafreniere            Nelson           FSCI 4020U  Lecture               19        
+2016-2017   Lafreniere            Nelson           FSCI 4020U  Lecture               19        
+2016-2017   Lafreniere            Nelson           FSCI 4410U  Thesis/Project        7         
+2016-2017   Lafreniere            Nelson           FSCI 1010U  Lecture               188       
+2016-2017   Lafreniere            Nelson           FSCI 3040U  Lecture               19        
+2016-2017   Lafreniere            Nelson           FSCI 3040U  Lecture               19        
+2016-2017   Lafreniere            Nelson           FSCI 4040U  Lecture               7         
+2016-2017   Lafreniere            Nelson           FSCI 4040U  Lecture               7         
+2016-2017   Lafreniere            Nelson           FSCI 4420U  Thesis/Project        6         
+2016-2017   Lafreniere            Nelson           FSCI 4430U  Lecture               8         
+2014-2015   Lowe                  Joshua           INFR 2411U  Lecture               55        
+2014-2015   Lowe                  Joshua           INFR 2411U  Lecture               55        
+2014-2015   Lowe                  Joshua           INFR 2421U  Lecture               60        
+2014-2015   Lowe                  Joshua           INFR 2421U  Lecture               60        
+2014-2015   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2014-2015   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2015-2016   Lowe                  Joshua           INFR 2411U  Lecture               40        
+2015-2016   Lowe                  Joshua           INFR 2411U  Lecture               40        
+2015-2016   Lowe                  Joshua           INFR 4410U  Lecture               5         
+2015-2016   Lowe                  Joshua           INFR 4410U  Lecture               5         
+2015-2016   Lowe                  Joshua           INFR 2421U  Lecture               45        
+2015-2016   Lowe                  Joshua           INFR 2421U  Lecture               45        
+2015-2016   Lowe                  Joshua           INFR 4430U  Laboratory            7         
+2015-2016   Lowe                  Joshua           INFR 4430U  Laboratory            11        
+2015-2016   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2015-2016   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2015-2016   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2016-2017   Lowe                  Joshua           INFR 2411U  Lecture               44        
+2016-2017   Lowe                  Joshua           INFR 2411U  Lecture               44        
+2016-2017   Lowe                  Joshua           INFR 4410U  Laboratory            6         
+2016-2017   Lowe                  Joshua           INFR 4410U  Lecture               6         
+2016-2017   Lowe                  Joshua           INFR 4410U  Lecture               6         
+2016-2017   Lowe                  Joshua           INFR 2421U  Lecture               55        
+2016-2017   Lowe                  Joshua           INFR 2421U  Lecture               55        
+2016-2017   Lowe                  Joshua           INFR 4430U  Laboratory            6         
+2016-2017   Lowe                  Joshua           INFR 4430U  Laboratory            12        
+2016-2017   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2016-2017   Lowe                  Joshua           INFR 4430U  Lecture               18        
+2015-2016   MacRae                Brent            INFR 2411U  Laboratory            0         
+2015-2016   MacRae                Brent            INFR 2411U  Laboratory            0         
+2015-2016   MacRae                Brent            INFR 2411U  Laboratory            18        
+2015-2016   MacRae                Brent            INFR 2411U  Laboratory            22        
+2015-2016   MacRae                Brent            INFR 2431U  Laboratory            19        
+2015-2016   MacRae                Brent            INFR 2431U  Laboratory            22        
+2015-2016   MacRae                Brent            INFR 2431U  Lecture               63        
+2015-2016   MacRae                Brent            INFR 1421U  Lecture               15        
+2015-2016   MacRae                Brent            INFR 1421U  Lecture               41        
+2015-2016   MacRae                Brent            INFR 1421U  Lecture               41        
+2015-2016   MacRae                Brent            INFR 2421U  Laboratory            0         
+2015-2016   MacRae                Brent            INFR 2421U  Laboratory            21        
+2015-2016   MacRae                Brent            INFR 2421U  Laboratory            21        
+2015-2016   MacRae                Brent            INFR 2421U  Laboratory            24        
+2015-2016   MacRae                Brent            INFR 2421U  Tutorial              45        
+2016-2017   MacRae                Brent            INFR 2411U  Laboratory            13        
+2016-2017   MacRae                Brent            INFR 2411U  Laboratory            15        
+2016-2017   MacRae                Brent            INFR 2411U  Laboratory            16        
+2016-2017   MacRae                Brent            INFR 2411U  Tutorial              44        
+2016-2017   MacRae                Brent            INFR 2431U  Laboratory            17        
+2016-2017   MacRae                Brent            INFR 2431U  Laboratory            21        
+2016-2017   MacRae                Brent            INFR 2431U  Lecture               38        
+2016-2017   MacRae                Brent            INFR 2431U  Lecture               38        
+2016-2017   MacRae                Brent            INFR 1421U  Lecture               9         
+2016-2017   MacRae                Brent            INFR 1421U  Lecture               67        
+2016-2017   MacRae                Brent            INFR 1421U  Lecture               67        
+2016-2017   MacRae                Brent            INFR 2421U  Laboratory            18        
+2016-2017   MacRae                Brent            INFR 2421U  Laboratory            18        
+2016-2017   MacRae                Brent            INFR 2421U  Laboratory            20        
+2016-2017   Miedema               Theresa          BUSI 3705U  Lecture               48        
+2016-2017   Miedema               Theresa          BUSI 3705U  Lecture               48        
+2016-2017   Miedema               Theresa          BUSI 3705U  Lecture               50        
+2016-2017   Miedema               Theresa          BUSI 3705U  Lecture               50        
+2016-2017   Miedema               Theresa          BUSI 2620U  Lecture               50        
+2016-2017   Miedema               Theresa          BUSI 3705U  Lecture               42        
+2016-2017   Miedema               Theresa          BUSI 3705U  Lecture               51        
+2014-2015   Moreau                Evelyn           MLSC 3210U  Lecture               40        
+2014-2015   Moreau                Evelyn           MLSC 4401U  Lecture               22        
+2015-2016   Moreau                Evelyn           MLSC 4400U  Lecture               37        
+2015-2016   Moreau                Evelyn           MLSC 4401U  Lecture               37        
+2016-2017   Moreau                Evelyn           MLSC 4400U  Lecture               28        
+2016-2017   Moreau                Evelyn           MLSC 4401U  Lecture               28        
+2014-2015   Nugent                Kimberly         FSCI 4020U  Lecture               18        
+2014-2015   Nugent                Kimberly         FSCI 4020U  Lecture               18        
+2014-2015   Nugent                Kimberly         FSCI 4410U  Thesis/Project        12        
+2014-2015   Nugent                Kimberly         FSCI 4430U  Lecture               6         
+2014-2015   Nugent                Kimberly         FSCI 4420U  Thesis/Project        12        
+2015-2016   Nugent                Kimberly         FSCI 4020U  Lecture               19        
+2015-2016   Nugent                Kimberly         FSCI 4410U  Thesis/Project        9         
+2015-2016   Nugent                Kimberly         FSCI 4430U  Lecture               7         
+2015-2016   Nugent                Kimberly         FSCI 4420U  Thesis/Project        9         
+2016-2017   Nugent                Kimberly         FSCI 4410U  Thesis/Project        7         
+2016-2017   Nugent                Kimberly         FSCI 4420U  Thesis/Project        6         
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               173       
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               173       
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               180       
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               180       
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               206       
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               206       
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               5         
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               5         
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               22        
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               22        
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               24        
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               24        
+2014-2015   Olaveson              Mary             BIOL 4020U  Lecture               61        
+2014-2015   Olaveson              Mary             BIOL 4020U  Lecture               61        
+2014-2015   Olaveson              Mary             ENVS 1000U  Lecture               138       
+2014-2015   Olaveson              Mary             ENVS 1000U  Lecture               138       
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               76        
+2014-2015   Olaveson              Mary             BIOL 1010U  Lecture               76        
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               13        
+2014-2015   Olaveson              Mary             BIOL 1011U  Lecture               13        
+2014-2015   Olaveson              Mary             BIOL 1020U  Lecture               162       
+2014-2015   Olaveson              Mary             BIOL 1020U  Lecture               162       
+2014-2015   Olaveson              Mary             BIOL 1020U  Lecture               203       
+2014-2015   Olaveson              Mary             BIOL 1020U  Lecture               203       
+2014-2015   Olaveson              Mary             BIOL 1021U  Lecture               9         
+2014-2015   Olaveson              Mary             BIOL 1021U  Lecture               9         
+2014-2015   Olaveson              Mary             BIOL 1021U  Lecture               17        
+2014-2015   Olaveson              Mary             BIOL 1021U  Lecture               17        
+2014-2015   Olaveson              Mary             BIOL 4080U  Lecture               89        
+2014-2015   Olaveson              Mary             BIOL 4080U  Lecture               89        
+2014-2015   Olaveson              Mary             ENVS 1000U  Lecture               108       
+2014-2015   Olaveson              Mary             ENVS 1000U  Lecture               108       
+2014-2015   Olaveson              Mary             ENVS 1000U  Lecture               155       
+2014-2015   Olaveson              Mary             ENVS 1000U  Lecture               155       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               138       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               138       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               170       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               170       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               191       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               191       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               191       
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               11        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               11        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               11        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               11        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               11        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               13        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               13        
+2015-2016   Olaveson              Mary             BIOL 4020U  Lecture               68        
+2015-2016   Olaveson              Mary             BIOL 4020U  Lecture               68        
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               139       
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               139       
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               139       
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               67        
+2015-2016   Olaveson              Mary             BIOL 1010U  Lecture               67        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               10        
+2015-2016   Olaveson              Mary             BIOL 1011U  Lecture               10        
+2015-2016   Olaveson              Mary             BIOL 1020U  Lecture               168       
+2015-2016   Olaveson              Mary             BIOL 1020U  Lecture               168       
+2015-2016   Olaveson              Mary             BIOL 1020U  Lecture               186       
+2015-2016   Olaveson              Mary             BIOL 1020U  Lecture               186       
+2015-2016   Olaveson              Mary             BIOL 1021U  Lecture               2         
+2015-2016   Olaveson              Mary             BIOL 1021U  Lecture               2         
+2015-2016   Olaveson              Mary             BIOL 1021U  Lecture               4         
+2015-2016   Olaveson              Mary             BIOL 1021U  Lecture               4         
+2015-2016   Olaveson              Mary             BIOL 4080U  Lecture               95        
+2015-2016   Olaveson              Mary             BIOL 4080U  Lecture               95        
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               122       
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               122       
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               122       
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               218       
+2015-2016   Olaveson              Mary             ENVS 1000U  Lecture               218       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               137       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               137       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               183       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               183       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               188       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               188       
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               2         
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               2         
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               7         
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               7         
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               17        
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               17        
+2016-2017   Olaveson              Mary             BIOL 3640U  Lecture               61        
+2016-2017   Olaveson              Mary             BIOL 3640U  Lecture               61        
+2016-2017   Olaveson              Mary             BIOL 4020U  Lecture               60        
+2016-2017   Olaveson              Mary             BIOL 4020U  Lecture               60        
+2016-2017   Olaveson              Mary             ENVS 1000U  Lecture               148       
+2016-2017   Olaveson              Mary             ENVS 1000U  Lecture               148       
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               48        
+2016-2017   Olaveson              Mary             BIOL 1010U  Lecture               48        
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               18        
+2016-2017   Olaveson              Mary             BIOL 1011U  Lecture               18        
+2016-2017   Olaveson              Mary             BIOL 1020U  Lecture               153       
+2016-2017   Olaveson              Mary             BIOL 1020U  Lecture               153       
+2016-2017   Olaveson              Mary             BIOL 1020U  Lecture               199       
+2016-2017   Olaveson              Mary             BIOL 1020U  Lecture               199       
+2016-2017   Olaveson              Mary             BIOL 1021U  Lecture               1         
+2016-2017   Olaveson              Mary             BIOL 1021U  Lecture               1         
+2016-2017   Olaveson              Mary             BIOL 1021U  Lecture               3         
+2016-2017   Olaveson              Mary             BIOL 1021U  Lecture               3         
+2016-2017   Olaveson              Mary             BIOL 4080U  Lecture               94        
+2016-2017   Olaveson              Mary             BIOL 4080U  Lecture               94        
+2016-2017   Olaveson              Mary             ENVS 1000U  Lecture               171       
+2016-2017   Olaveson              Mary             ENVS 1000U  Lecture               171       
+2016-2017   Olaveson              Mary             ENVS 1000U  Lecture               194       
+2016-2017   Olaveson              Mary             ENVS 1000U  Lecture               194       
+2014-2015   Partosoedarso         Elita            HLSC 1200U  Lecture               223       
+2014-2015   Partosoedarso         Elita            HLSC 2462U  Lecture               105       
+2014-2015   Partosoedarso         Elita            HLSC 2462U  Lecture               110       
+2014-2015   Partosoedarso         Elita            NURS 2810U  Lecture               108       
+2014-2015   Partosoedarso         Elita            HLSC 1201U  Lecture               217       
+2014-2015   Partosoedarso         Elita            HLSC 2461U  Tutorial              204       
+2014-2015   Partosoedarso         Elita            HLSC 2463U  Lecture               102       
+2014-2015   Partosoedarso         Elita            HLSC 2463U  Lecture               106       
+2014-2015   Partosoedarso         Elita            NURS 2820U  Lecture               22        
+2014-2015   Partosoedarso         Elita            NURS 2820U  Lecture               33        
+2014-2015   Partosoedarso         Elita            NURS 2820U  Lecture               34        
+2015-2016   Partosoedarso         Elita            HLSC 1200U  Lecture               216       
+2015-2016   Partosoedarso         Elita            HLSC 2460U  Lecture               205       
+2015-2016   Partosoedarso         Elita            HLSC 2462U  Lecture               100       
+2015-2016   Partosoedarso         Elita            HLSC 2462U  Lecture               115       
+2015-2016   Partosoedarso         Elita            NURS 2810U  Lecture               108       
+2015-2016   Partosoedarso         Elita            HLSC 1201U  Lecture               194       
+2015-2016   Partosoedarso         Elita            HLSC 2461U  Lecture               195       
+2015-2016   Partosoedarso         Elita            HLSC 2463U  Lecture               99        
+2015-2016   Partosoedarso         Elita            HLSC 2463U  Lecture               111       
+2016-2017   Partosoedarso         Elita            HLSC 0880U  Lecture               59        
+2016-2017   Partosoedarso         Elita            HLSC 1200U  Lecture               212       
+2016-2017   Partosoedarso         Elita            HLSC 2462U  Lecture               69        
+2016-2017   Partosoedarso         Elita            HLSC 2462U  Lecture               142       
+2016-2017   Partosoedarso         Elita            HLSC 4310U  Lecture               26        
+2016-2017   Partosoedarso         Elita            NURS 2810U  Lecture               105       
+2016-2017   Partosoedarso         Elita            HLSC 1200U  Lecture               33        
+2016-2017   Partosoedarso         Elita            HLSC 2462U  Lecture               18        
+2016-2017   Partosoedarso         Elita            HLSC 2463U  Lecture               99        
+2016-2017   Partosoedarso         Elita            NURS 2820U  Lecture               42        
+2016-2017   Partosoedarso         Elita            NURS 2820U  Lecture               57        
+2014-2015   Perera                Sharman          ENGR 3570U  Lecture               52        
+2014-2015   Perera                Sharman          ENGR 3570U  Lecture               52        
+2014-2015   Perera                Sharman          ENGR 3750U  Lecture               63        
+2014-2015   Perera                Sharman          ENGR 4994U  Lecture               66        
+2014-2015   Perera                Sharman          ENGR 2330U  Lecture               15        
+2014-2015   Perera                Sharman          ENGR 2330U  Lecture               15        
+2014-2015   Perera                Sharman          ENGR 4530U  Lecture               17        
+2014-2015   Perera                Sharman          ENGR 4530U  Lecture               17        
+2014-2015   Perera                Sharman          ENGR 4998U  Thesis/Project        20        
+2014-2015   Perera                Sharman          ENGR 4998U  Thesis/Project        45        
+2015-2016   Perera                Sharman          ENGR 3570U  Lecture               60        
+2015-2016   Perera                Sharman          ENGR 3570U  Lecture               60        
+2015-2016   Perera                Sharman          ENGR 3750U  Lecture               77        
+2015-2016   Perera                Sharman          ENGR 3750U  Lecture               77        
+2015-2016   Perera                Sharman          ENGR 4994U  Laboratory            27        
+2015-2016   Perera                Sharman          ENGR 4994U  Laboratory            27        
+2015-2016   Perera                Sharman          ENGR 4994U  Laboratory            39        
+2015-2016   Perera                Sharman          ENGR 4994U  Laboratory            39        
+2015-2016   Perera                Sharman          ENGR 4994U  Tutorial              66        
+2015-2016   Perera                Sharman          ENGR 2330U  Lecture               20        
+2015-2016   Perera                Sharman          ENGR 2330U  Lecture               20        
+2015-2016   Perera                Sharman          ENGR 2330U  Lecture               20        
+2015-2016   Perera                Sharman          ENGR 4530U  Lecture               15        
+2015-2016   Perera                Sharman          ENGR 4530U  Lecture               15        
+2015-2016   Perera                Sharman          ENGR 4998U  Thesis/Project        29        
+2016-2017   Perera                Sharman          ENGR 3750U  Lecture               60        
+2016-2017   Perera                Sharman          RADI 3570U  Lecture               69        
+2016-2017   Perera                Sharman          RADI 3570U  Lecture               69        
+2016-2017   Perera                Sharman          ENGR 4530U  Lecture               24        
+2016-2017   Perera                Sharman          ENGR 4530U  Lecture               24        
+2016-2017   Perera                Sharman          ENGR 4998U  Thesis/Project        39        
+2016-2017   Perera                Sharman          NUCL 4780U  Lecture               55        
+2016-2017   Perera                Sharman          NUCL 4780U  Lecture               55        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              35        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              37        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              43        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              47        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              48        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              49        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              53        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              61        
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Lecture               183       
+2014-2015   Rubel                 Ashfakuddin      ECON 2010U  Lecture               191       
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              31        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              38        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              41        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              42        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              44        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              45        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              49        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              50        
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Lecture               167       
+2014-2015   Rubel                 Ashfakuddin      ECON 2020U  Lecture               173       
+2015-2016   Rubel                 Ashfakuddin      BUSI 2050U  Lecture               20        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              53        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              57        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              59        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              71        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              72        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              73        
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Lecture               191       
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Lecture               191       
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Lecture               194       
+2015-2016   Rubel                 Ashfakuddin      ECON 2010U  Lecture               194       
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              34        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              34        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              44        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              47        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              48        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              48        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              49        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              49        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              50        
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Lecture               172       
+2015-2016   Rubel                 Ashfakuddin      ECON 2020U  Lecture               197       
+2016-2017   Rubel                 Ashfakuddin      BUSI 2050U  Lecture               24        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              44        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              48        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              66        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              69        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              69        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Tutorial              69        
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Lecture               160       
+2016-2017   Rubel                 Ashfakuddin      ECON 2010U  Lecture               205       
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              44        
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              46        
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              50        
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              69        
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              70        
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Tutorial              70        
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Lecture               143       
+2016-2017   Rubel                 Ashfakuddin      ECON 2020U  Lecture               206       
+2014-2015   Saniei                Namdar           ELEE 3230U  Lecture               74        
+2014-2015   Saniei                Namdar           ELEE 3230U  Lecture               74        
+2014-2015   Saniei                Namdar           ELEE 4310U  Lecture               35        
+2014-2015   Saniei                Namdar           ELEE 4310U  Lecture               35        
+2014-2015   Saniei                Namdar           ELEE 4350U  Lecture               37        
+2014-2015   Saniei                Namdar           ELEE 4350U  Lecture               37        
+2014-2015   Saniei                Namdar           ELEE 2210U  Lecture               88        
+2014-2015   Saniei                Namdar           ELEE 2210U  Lecture               88        
+2014-2015   Saniei                Namdar           ELEE 2250U  Lecture               121       
+2014-2015   Saniei                Namdar           ELEE 2250U  Lecture               121       
+2014-2015   Saniei                Namdar           ELEE 3490U  Lecture               77        
+2014-2015   Saniei                Namdar           ELEE 3490U  Lecture               77        
+2015-2016   Saniei                Namdar           ELEE 3230U  Lecture               82        
+2015-2016   Saniei                Namdar           ELEE 3230U  Lecture               82        
+2015-2016   Saniei                Namdar           ELEE 4310U  Lecture               25        
+2015-2016   Saniei                Namdar           ELEE 4310U  Lecture               25        
+2015-2016   Saniei                Namdar           ELEE 4350U  Lecture               30        
+2015-2016   Saniei                Namdar           ELEE 4350U  Lecture               30        
+2015-2016   Saniei                Namdar           ELEE 2210U  Lecture               79        
+2015-2016   Saniei                Namdar           ELEE 2210U  Lecture               79        
+2015-2016   Saniei                Namdar           ELEE 2210U  Lecture               79        
+2015-2016   Saniei                Namdar           ELEE 2250U  Lecture               97        
+2015-2016   Saniei                Namdar           ELEE 2250U  Lecture               97        
+2015-2016   Saniei                Namdar           ELEE 2250U  Lecture               97        
+2015-2016   Saniei                Namdar           ELEE 3490U  Lecture               84        
+2015-2016   Saniei                Namdar           ELEE 3490U  Lecture               84        
+2015-2016   Saniei                Namdar           ELEE 3490U  Lecture               84        
+2016-2017   Saniei                Namdar           ELEE 2200U  Lecture               108       
+2016-2017   Saniei                Namdar           ELEE 2200U  Lecture               108       
+2016-2017   Saniei                Namdar           ELEE 3230U  Lecture               81        
+2016-2017   Saniei                Namdar           ELEE 3230U  Lecture               81        
+2016-2017   Saniei                Namdar           ELEE 4310U  Lecture               36        
+2016-2017   Saniei                Namdar           ELEE 4310U  Lecture               36        
+2016-2017   Saniei                Namdar           ELEE 2200U  Lecture               8         
+2016-2017   Saniei                Namdar           ELEE 2200U  Lecture               8         
+2016-2017   Saniei                Namdar           ELEE 2210U  Lecture               89        
+2016-2017   Saniei                Namdar           ELEE 2210U  Lecture               89        
+2016-2017   Saniei                Namdar           ELEE 2250U  Lecture               101       
+2016-2017   Saniei                Namdar           ELEE 2250U  Lecture               101       
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               160       
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               160       
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               226       
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               226       
+2014-2015   Shakoori              Azar             MATH 1850U  Lecture               214       
+2014-2015   Shakoori              Azar             MATH 1850U  Lecture               214       
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               82        
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               82        
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               137       
+2014-2015   Shakoori              Azar             MATH 1010U  Lecture               137       
+2014-2015   Shakoori              Azar             MATH 2070U  Lecture               144       
+2014-2015   Shakoori              Azar             MATH 2070U  Lecture               144       
+2014-2015   Shakoori              Azar             MATH 2070U  Lecture               146       
+2014-2015   Shakoori              Azar             MATH 2070U  Lecture               146       
+2015-2016   Shakoori              Azar             MATH 1000U  Lecture               111       
+2015-2016   Shakoori              Azar             MATH 1000U  Lecture               111       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               177       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               177       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               187       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               187       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               48        
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               48        
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               48        
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               136       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               136       
+2015-2016   Shakoori              Azar             MATH 1010U  Lecture               136       
+2015-2016   Shakoori              Azar             MATH 2070U  Lecture               139       
+2015-2016   Shakoori              Azar             MATH 2070U  Lecture               139       
+2015-2016   Shakoori              Azar             MATH 2070U  Lecture               191       
+2015-2016   Shakoori              Azar             MATH 2070U  Lecture               191       
+2016-2017   Shakoori              Azar             MATH 2860U  Lecture               147       
+2016-2017   Shakoori              Azar             MATH 2860U  Lecture               147       
+2016-2017   Shakoori              Azar             MATH 4010U  Lecture               4         
+2016-2017   Shakoori              Azar             MATH 4010U  Lecture               4         
+2016-2017   Shakoori              Azar             MATH 2070U  Lecture               131       
+2016-2017   Shakoori              Azar             MATH 2070U  Lecture               131       
+2016-2017   Shakoori              Azar             MATH 2070U  Lecture               218       
+2016-2017   Shakoori              Azar             MATH 2070U  Lecture               218       
+2016-2017   Shakoori              Azar             MATH 4020U  Lecture               9         
+2016-2017   Shakoori              Azar             MATH 4020U  Lecture               9         
+2014-2015   Shapiro               Morden           BUSI 1600U  Lecture               183       
+2014-2015   Shapiro               Morden           BUSI 3710U  Lecture               38        
+2014-2015   Shapiro               Morden           BUSI 3710U  Lecture               38        
+2014-2015   Shapiro               Morden           BUSI 3160U  Lecture               24        
+2014-2015   Shapiro               Morden           BUSI 3160U  Lecture               24        
+2014-2015   Shapiro               Morden           BUSI 3160U  Lecture               36        
+2014-2015   Shapiro               Morden           BUSI 3160U  Lecture               36        
+2014-2015   Shapiro               Morden           BUSI 3710U  Lecture               63        
+2014-2015   Shapiro               Morden           BUSI 3710U  Lecture               63        
+2015-2016   Shapiro               Morden           BUSI 3710U  Lecture               72        
+2015-2016   Shapiro               Morden           BUSI 3710U  Lecture               72        
+2015-2016   Shapiro               Morden           BUSI 3710U  Lecture               72        
+2015-2016   Shapiro               Morden           BUSI 3160U  Lecture               34        
+2015-2016   Shapiro               Morden           BUSI 3160U  Lecture               34        
+2015-2016   Shapiro               Morden           BUSI 3160U  Lecture               34        
+2015-2016   Shapiro               Morden           BUSI 3160U  Lecture               44        
+2015-2016   Shapiro               Morden           BUSI 3160U  Lecture               44        
+2015-2016   Shapiro               Morden           BUSI 3160U  Lecture               44        
+2015-2016   Shapiro               Morden           BUSI 3710U  Lecture               46        
+2016-2017   Shapiro               Morden           BUSI 3710U  Lecture               59        
+2016-2017   Shapiro               Morden           BUSI 3710U  Lecture               59        
+2016-2017   Shapiro               Morden           BUSI 3160U  Lecture               21        
+2016-2017   Shapiro               Morden           BUSI 3160U  Lecture               21        
+2016-2017   Shapiro               Morden           BUSI 3160U  Lecture               47        
+2016-2017   Shapiro               Morden           BUSI 3160U  Lecture               47        
+2016-2017   Shapiro               Morden           BUSI 3710U  Lecture               40        
+2016-2017   Shapiro               Morden           BUSI 3710U  Lecture               40        
+2016-2017   Shapiro               Morden           BUSI 4799U  Lecture               26        
+2014-2015   Simpson               Ruth             MLSC 1010U  Laboratory            9         
+2014-2015   Simpson               Ruth             MLSC 1010U  Laboratory            13        
+2014-2015   Simpson               Ruth             MLSC 1010U  Laboratory            14        
+2014-2015   Simpson               Ruth             MLSC 1010U  Lecture               36        
+2014-2015   Simpson               Ruth             MLSC 3111U  Lecture               37        
+2014-2015   Simpson               Ruth             MLSC 3111U  Lecture               37        
+2014-2015   Simpson               Ruth             HLSC 2110U  Tutorial              39        
+2014-2015   Simpson               Ruth             HLSC 2110U  Tutorial              39        
+2014-2015   Simpson               Ruth             HLSC 2110U  Tutorial              39        
+2014-2015   Simpson               Ruth             HLSC 2110U  Tutorial              39        
+2014-2015   Simpson               Ruth             HLSC 2110U  Tutorial              39        
+2014-2015   Simpson               Ruth             HLSC 2110U  Tutorial              39        
+2014-2015   Simpson               Ruth             MLSC 2111U  Laboratory            18        
+2014-2015   Simpson               Ruth             MLSC 2111U  Laboratory            18        
+2014-2015   Simpson               Ruth             MLSC 2111U  Lecture               36        
+2014-2015   Simpson               Ruth             MLSC 2111U  Lecture               36        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2014-2015   Simpson               Ruth             MLSC 3300U  Lecture & Lab         38        
+2015-2016   Simpson               Ruth             MLSC 1010U  Laboratory            13        
+2015-2016   Simpson               Ruth             MLSC 1010U  Laboratory            13        
+2015-2016   Simpson               Ruth             MLSC 1010U  Laboratory            15        
+2015-2016   Simpson               Ruth             MLSC 1010U  Laboratory            15        
+2015-2016   Simpson               Ruth             MLSC 1010U  Laboratory            15        
+2015-2016   Simpson               Ruth             MLSC 1010U  Laboratory            15        
+2015-2016   Simpson               Ruth             MLSC 3111U  Laboratory            20        
+2015-2016   Simpson               Ruth             MLSC 3111U  Laboratory            20        
+2015-2016   Simpson               Ruth             MLSC 2111U  Laboratory            19        
+2015-2016   Simpson               Ruth             MLSC 2111U  Laboratory            20        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2015-2016   Simpson               Ruth             MLSC 3300U  Lecture & Lab         15        
+2016-2017   Simpson               Ruth             MLSC 1010U  Laboratory            11        
+2016-2017   Simpson               Ruth             MLSC 1010U  Laboratory            11        
+2016-2017   Simpson               Ruth             MLSC 1010U  Laboratory            15        
+2016-2017   Simpson               Ruth             MLSC 1010U  Lecture               37        
+2016-2017   Simpson               Ruth             MLSC 1010U  Lecture               37        
+2016-2017   Simpson               Ruth             MLSC 3111U  Laboratory            17        
+2016-2017   Simpson               Ruth             MLSC 3111U  Laboratory            20        
+2016-2017   Simpson               Ruth             MLSC 2111U  Laboratory            17        
+2016-2017   Simpson               Ruth             MLSC 2111U  Laboratory            17        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         14        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2016-2017   Simpson               Ruth             MLSC 3300U  Lecture & Lab         18        
+2014-2015   Smeeton               Donna            HLSC 2465U  Laboratory            24        
+2014-2015   Smeeton               Donna            HLSC 2465U  Lecture               24        
+2014-2015   Smeeton               Donna            MLSC 3230U  Laboratory            15        
+2014-2015   Smeeton               Donna            MLSC 3230U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3230U  Lecture               33        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              15        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              15        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              15        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              15        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              15        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              15        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              21        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              21        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              21        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              21        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              21        
+2014-2015   Smeeton               Donna            MLSC 3141U  Tutorial              21        
+2014-2015   Smeeton               Donna            MLSC 3141U  Lecture               36        
+2014-2015   Smeeton               Donna            MLSC 3141U  Lecture               36        
+2014-2015   Smeeton               Donna            MLSC 3231U  Laboratory            17        
+2014-2015   Smeeton               Donna            MLSC 3231U  Laboratory            18        
+2014-2015   Smeeton               Donna            MLSC 3231U  Lecture               35        
+2015-2016   Smeeton               Donna            HLSC 2465U  Laboratory            24        
+2015-2016   Smeeton               Donna            HLSC 2465U  Laboratory            24        
+2015-2016   Smeeton               Donna            HLSC 2465U  Lecture               24        
+2015-2016   Smeeton               Donna            MLSC 3230U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3230U  Laboratory            18        
+2015-2016   Smeeton               Donna            MLSC 3230U  Lecture               34        
+2015-2016   Smeeton               Donna            MLSC 3230U  Lecture               34        
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            5         
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            5         
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            5         
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            5         
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            5         
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            5         
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            23        
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            23        
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            23        
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            23        
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            23        
+2015-2016   Smeeton               Donna            HLSC 3464U  Laboratory            23        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            13        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            13        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            13        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            13        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            13        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            13        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3141U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3141U  Tutorial              29        
+2015-2016   Smeeton               Donna            MLSC 3141U  Tutorial              29        
+2015-2016   Smeeton               Donna            MLSC 3141U  Tutorial              29        
+2015-2016   Smeeton               Donna            MLSC 3141U  Tutorial              29        
+2015-2016   Smeeton               Donna            MLSC 3141U  Tutorial              29        
+2015-2016   Smeeton               Donna            MLSC 3141U  Tutorial              29        
+2015-2016   Smeeton               Donna            MLSC 3231U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3231U  Laboratory            16        
+2015-2016   Smeeton               Donna            MLSC 3231U  Lecture               32        
+2016-2017   Smeeton               Donna            HLSC 2465U  Laboratory            22        
+2016-2017   Smeeton               Donna            HLSC 2465U  Laboratory            24        
+2016-2017   Smeeton               Donna            HLSC 2465U  Lecture               46        
+2016-2017   Smeeton               Donna            MLSC 3230U  Laboratory            20        
+2016-2017   Smeeton               Donna            MLSC 3230U  Laboratory            20        
+2016-2017   Smeeton               Donna            MLSC 3230U  Lecture               40        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            10        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            10        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            10        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            10        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            10        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            10        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            16        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            16        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            16        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            16        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            16        
+2016-2017   Smeeton               Donna            HLSC 3464U  Laboratory            16        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            14        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            14        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            14        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            14        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            14        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            14        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2016-2017   Smeeton               Donna            MLSC 3141U  Laboratory            18        
+2016-2017   Smeeton               Donna            MLSC 3141U  Tutorial              32        
+2016-2017   Smeeton               Donna            MLSC 3231U  Laboratory            17        
+2016-2017   Smeeton               Donna            MLSC 3231U  Laboratory            20        
+2016-2017   Smeeton               Donna            MLSC 3231U  Lecture               37        
+2014-2015   Stamatiou             George           BIOL 3640U  Lecture               73        
+2014-2015   Stamatiou             George           BIOL 3640U  Lecture               73        
+2014-2015   Stamatiou             George           BIOL 3040U  Lecture               85        
+2014-2015   Stamatiou             George           BIOL 3040U  Lecture               85        
+2015-2016   Stamatiou             George           BIOL 3050U  Laboratory            3         
+2015-2016   Stamatiou             George           BIOL 3640U  Lecture               70        
+2015-2016   Stamatiou             George           BIOL 3640U  Lecture               70        
+2015-2016   Stamatiou             George           BIOL 3040U  Lecture               75        
+2015-2016   Stamatiou             George           BIOL 3040U  Lecture               75        
+2015-2016   Stamatiou             George           BIOL 3040U  Lecture               75        
+2016-2017   Stamatiou             George           BIOL 4052U  Lecture & Lab         10        
+2016-2017   Stamatiou             George           BIOL 4052U  Lecture & Lab         10        
+2016-2017   Stamatiou             George           BIOL 4052U  Lecture & Lab         10        
+2016-2017   Stamatiou             George           BIOL 3040U  Lecture               70        
+2016-2017   Stamatiou             George           BIOL 3040U  Lecture               70        
+2016-2017   Stamatopoulos         Vivian           SSCI 2900U  Lecture               113       
+2016-2017   Stamatopoulos         Vivian           SSCI 2900U  Lecture               115       
+2016-2017   Stamatopoulos         Vivian           SSCI 2900U  Lecture               120       
+2016-2017   Stamatopoulos         Vivian           SSCI 2920U  Lecture               72        
+2016-2017   Stamatopoulos         Vivian           SSCI 3040U  Lecture               93        
+2016-2017   Stamatopoulos         Vivian           SSCI 3040U  Lecture               98        
+2016-2017   Sugianto              Santoso          BUSI 2402U  Lecture               56        
+2016-2017   Sugianto              Santoso          BUSI 2402U  Lecture               56        
+2016-2017   Sugianto              Santoso          BUSI 3430U  Lecture               71        
+2016-2017   Sugianto              Santoso          BUSI 3430U  Lecture               71        
+2016-2017   Sugianto              Santoso          BUSI 2401U  Lecture               49        
+2016-2017   Sugianto              Santoso          BUSI 2401U  Lecture               49        
+2016-2017   Sugianto              Santoso          BUSI 2402U  Lecture               100       
+2016-2017   Sugianto              Santoso          BUSI 2402U  Lecture               100       
+2016-2017   Sugianto              Santoso          BUSI 2402U  Lecture               150       
+2016-2017   Sugianto              Santoso          BUSI 2402U  Lecture               150       
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               173       
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               173       
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               180       
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               180       
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               206       
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               206       
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               5         
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               5         
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               22        
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               22        
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               24        
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               24        
+2014-2015   Tavares               Annette          BIOL 3610U  Lecture               57        
+2014-2015   Tavares               Annette          BIOL 3610U  Lecture               57        
+2014-2015   Tavares               Annette          BIOL 4620U  Lecture               27        
+2014-2015   Tavares               Annette          BIOL 4620U  Lecture               27        
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               76        
+2014-2015   Tavares               Annette          BIOL 1010U  Lecture               76        
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               13        
+2014-2015   Tavares               Annette          BIOL 1011U  Lecture               13        
+2014-2015   Tavares               Annette          BIOL 1020U  Lecture               162       
+2014-2015   Tavares               Annette          BIOL 1020U  Lecture               162       
+2014-2015   Tavares               Annette          BIOL 1020U  Lecture               203       
+2014-2015   Tavares               Annette          BIOL 1020U  Lecture               203       
+2014-2015   Tavares               Annette          BIOL 1021U  Lecture               9         
+2014-2015   Tavares               Annette          BIOL 1021U  Lecture               9         
+2014-2015   Tavares               Annette          BIOL 1021U  Lecture               17        
+2014-2015   Tavares               Annette          BIOL 1021U  Lecture               17        
+2014-2015   Tavares               Annette          BIOL 2050U  Lecture               123       
+2014-2015   Tavares               Annette          BIOL 2050U  Lecture               123       
+2014-2015   Tavares               Annette          BIOL 3650U  Lecture               98        
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               138       
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               138       
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               170       
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               170       
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               191       
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               191       
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               191       
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               11        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               11        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               11        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               11        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               11        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               13        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               13        
+2015-2016   Tavares               Annette          BIOL 3610U  Lecture               50        
+2015-2016   Tavares               Annette          BIOL 3610U  Lecture               50        
+2015-2016   Tavares               Annette          BIOL 3610U  Lecture               50        
+2015-2016   Tavares               Annette          BIOL 4620U  Lecture               47        
+2015-2016   Tavares               Annette          BIOL 4620U  Lecture               47        
+2015-2016   Tavares               Annette          BIOL 4620U  Lecture               47        
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               67        
+2015-2016   Tavares               Annette          BIOL 1010U  Lecture               67        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               10        
+2015-2016   Tavares               Annette          BIOL 1011U  Lecture               10        
+2015-2016   Tavares               Annette          BIOL 1020U  Lecture               168       
+2015-2016   Tavares               Annette          BIOL 1020U  Lecture               168       
+2015-2016   Tavares               Annette          BIOL 1020U  Lecture               186       
+2015-2016   Tavares               Annette          BIOL 1020U  Lecture               186       
+2015-2016   Tavares               Annette          BIOL 1021U  Lecture               2         
+2015-2016   Tavares               Annette          BIOL 1021U  Lecture               2         
+2015-2016   Tavares               Annette          BIOL 1021U  Lecture               4         
+2015-2016   Tavares               Annette          BIOL 1021U  Lecture               4         
+2015-2016   Tavares               Annette          BIOL 2050U  Lecture               132       
+2015-2016   Tavares               Annette          BIOL 2050U  Lecture               132       
+2015-2016   Tavares               Annette          BIOL 3650U  Lecture               86        
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               137       
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               137       
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               183       
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               183       
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               188       
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               188       
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               2         
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               2         
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               7         
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               7         
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               17        
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               17        
+2016-2017   Tavares               Annette          BIOL 3610U  Lecture               35        
+2016-2017   Tavares               Annette          BIOL 3610U  Lecture               35        
+2016-2017   Tavares               Annette          BIOL 4620U  Lecture               31        
+2016-2017   Tavares               Annette          BIOL 4620U  Lecture               31        
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               48        
+2016-2017   Tavares               Annette          BIOL 1010U  Lecture               48        
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               18        
+2016-2017   Tavares               Annette          BIOL 1011U  Lecture               18        
+2016-2017   Tavares               Annette          BIOL 1020U  Lecture               153       
+2016-2017   Tavares               Annette          BIOL 1020U  Lecture               153       
+2016-2017   Tavares               Annette          BIOL 1020U  Lecture               199       
+2016-2017   Tavares               Annette          BIOL 1020U  Lecture               199       
+2016-2017   Tavares               Annette          BIOL 1021U  Lecture               1         
+2016-2017   Tavares               Annette          BIOL 1021U  Lecture               1         
+2016-2017   Tavares               Annette          BIOL 1021U  Lecture               3         
+2016-2017   Tavares               Annette          BIOL 1021U  Lecture               3         
+2016-2017   Tavares               Annette          BIOL 2050U  Lecture               108       
+2016-2017   Tavares               Annette          BIOL 2050U  Lecture               108       
+2016-2017   Tavares               Annette          BIOL 3650U  Lecture               87        
+2014-2015   Thurber               Connie           MLSC 1010U  Laboratory            9         
+2014-2015   Thurber               Connie           MLSC 1010U  Laboratory            13        
+2014-2015   Thurber               Connie           MLSC 1010U  Laboratory            14        
+2014-2015   Thurber               Connie           MLSC 1010U  Lecture               36        
+2014-2015   Thurber               Connie           MLSC 3111U  Laboratory            18        
+2014-2015   Thurber               Connie           MLSC 3111U  Laboratory            19        
+2014-2015   Thurber               Connie           MLSC 3111U  Lecture               37        
+2014-2015   Thurber               Connie           MLSC 3111U  Lecture               37        
+2014-2015   Thurber               Connie           MLSC 2111U  Laboratory            18        
+2014-2015   Thurber               Connie           MLSC 2111U  Laboratory            18        
+2014-2015   Thurber               Connie           MLSC 2111U  Lecture               36        
+2014-2015   Thurber               Connie           MLSC 2111U  Lecture               36        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2014-2015   Thurber               Connie           MLSC 3300U  Lecture & Lab         38        
+2015-2016   Thurber               Connie           MLSC 1010U  Lecture               43        
+2015-2016   Thurber               Connie           MLSC 3111U  Laboratory            20        
+2015-2016   Thurber               Connie           MLSC 3111U  Laboratory            20        
+2015-2016   Thurber               Connie           MLSC 3111U  Lecture               40        
+2015-2016   Thurber               Connie           MLSC 3111U  Lecture               40        
+2015-2016   Thurber               Connie           MLSC 3111U  Lecture               40        
+2015-2016   Thurber               Connie           MLSC 2111U  Laboratory            19        
+2015-2016   Thurber               Connie           MLSC 2111U  Laboratory            20        
+2015-2016   Thurber               Connie           MLSC 2111U  Lecture               39        
+2015-2016   Thurber               Connie           MLSC 3210U  Lecture               32        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2015-2016   Thurber               Connie           MLSC 3300U  Lecture & Lab         15        
+2016-2017   Thurber               Connie           MLSC 1010U  Laboratory            11        
+2016-2017   Thurber               Connie           MLSC 1010U  Laboratory            11        
+2016-2017   Thurber               Connie           MLSC 1010U  Laboratory            15        
+2016-2017   Thurber               Connie           MLSC 1010U  Lecture               37        
+2016-2017   Thurber               Connie           MLSC 1010U  Lecture               37        
+2016-2017   Thurber               Connie           MLSC 3111U  Laboratory            17        
+2016-2017   Thurber               Connie           MLSC 3111U  Laboratory            20        
+2016-2017   Thurber               Connie           MLSC 3111U  Lecture               37        
+2016-2017   Thurber               Connie           MLSC 3111U  Lecture               37        
+2016-2017   Thurber               Connie           MLSC 2111U  Laboratory            17        
+2016-2017   Thurber               Connie           MLSC 2111U  Laboratory            17        
+2016-2017   Thurber               Connie           MLSC 2111U  Lecture               34        
+2016-2017   Thurber               Connie           MLSC 2111U  Lecture               34        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         14        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2016-2017   Thurber               Connie           MLSC 3300U  Lecture & Lab         18        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              22        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              24        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              24        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              28        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              29        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              31        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              32        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              33        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              33        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              34        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              34        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              34        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              17        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              22        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              25        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              32        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              33        
+2014-2015   Thurber               William          BUSI 3280U  Lecture               49        
+2014-2015   Thurber               William          BUSI 3280U  Lecture               49        
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 5000G  Lecture               0         
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              11        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              14        
+2014-2015   Thurber               William          BUSI 1010U  Tutorial              15        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              12        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              25        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              29        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              29        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              29        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              31        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              33        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              34        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              34        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              35        
+2014-2015   Thurber               William          BUSI 1020U  Tutorial              35        
+2014-2015   Thurber               William          BUSI 1102U  Tutorial              5         
+2014-2015   Thurber               William          BUSI 3200U  Lecture               17        
+2014-2015   Thurber               William          BUSI 3200U  Lecture               17        
+2014-2015   Thurber               William          BUSI 3200U  Lecture               17        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              25        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              31        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              32        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              32        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              32        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              35        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              10        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              18        
+2015-2016   Thurber               William          BUSI 1010U  Tutorial              28        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              17        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              17        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              18        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              18        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              24        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              24        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              27        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              27        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              27        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              30        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              32        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              33        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              34        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              34        
+2015-2016   Thurber               William          BUSI 1020U  Tutorial              34        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              15        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              28        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              31        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              31        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              31        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              32        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              32        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              33        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              33        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              34        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              34        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              34        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              16        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              30        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              33        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              34        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              11        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              11        
+2016-2017   Thurber               William          BUSI 1010U  Tutorial              16        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              12        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              14        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              23        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              28        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              29        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              29        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              30        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              34        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              35        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              35        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              35        
+2016-2017   Thurber               William          BUSI 1020U  Tutorial              35        
+2014-2015   Yang                  Yuelei           ENGR 3160U  Lecture               126       
+2014-2015   Yang                  Yuelei           ENGR 3160U  Lecture               126       
+2014-2015   Yang                  Yuelei           MANE 4380U  Lecture               81        
+2014-2015   Yang                  Yuelei           MANE 4380U  Lecture               81        
+2014-2015   Yang                  Yuelei           MECE 3030U  Lecture               167       
+2014-2015   Yang                  Yuelei           MECE 3030U  Lecture               167       
+2014-2015   Yang                  Yuelei           AUTE 3450U  Lecture               51        
+2014-2015   Yang                  Yuelei           AUTE 3450U  Lecture               51        
+2014-2015   Yang                  Yuelei           ENGR 1025U  Lecture               181       
+2014-2015   Yang                  Yuelei           ENGR 1025U  Lecture               181       
+2014-2015   Yang                  Yuelei           MANE 3460U  Lecture               43        
+2014-2015   Yang                  Yuelei           MANE 3460U  Lecture               43        
+2014-2015   Yang                  Yuelei           MECE 3410U  Lecture               49        
+2014-2015   Yang                  Yuelei           MECE 3410U  Lecture               49        
+2015-2016   Yang                  Yuelei           MANE 4380U  Lecture               86        
+2015-2016   Yang                  Yuelei           MANE 4380U  Lecture               86        
+2015-2016   Yang                  Yuelei           MECE 3030U  Lecture               82        
+2015-2016   Yang                  Yuelei           MECE 3030U  Lecture               82        
+2015-2016   Yang                  Yuelei           MECE 3030U  Lecture               82        
+2015-2016   Yang                  Yuelei           MECE 3030U  Lecture               109       
+2015-2016   Yang                  Yuelei           MECE 3030U  Lecture               109       
+2015-2016   Yang                  Yuelei           MECE 3030U  Lecture               109       
+2015-2016   Yang                  Yuelei           ENGR 1025U  Lecture               190       
+2015-2016   Yang                  Yuelei           ENGR 1025U  Lecture               190       
+2015-2016   Yang                  Yuelei           MANE 3460U  Lecture               44        
+2015-2016   Yang                  Yuelei           MANE 3460U  Lecture               44        
+2015-2016   Yang                  Yuelei           MECE 3410U  Lecture               47        
+2015-2016   Yang                  Yuelei           MECE 3410U  Lecture               47        
+2015-2016   Yang                  Yuelei           MECE 3410U  Lecture               47        
+2016-2017   Yang                  Yuelei           ENGR 3160U  Lecture               176       
+2016-2017   Yang                  Yuelei           ENGR 3160U  Lecture               176       
+2016-2017   Yang                  Yuelei           MANE 4380U  Lecture               69        
+2016-2017   Yang                  Yuelei           MANE 4380U  Lecture               69        
+2016-2017   Yang                  Yuelei           MECE 3030U  Lecture               100       
+2016-2017   Yang                  Yuelei           MECE 3030U  Lecture               100       
+2016-2017   Yang                  Yuelei           MECE 3030U  Lecture               111       
+2016-2017   Yang                  Yuelei           MECE 3030U  Lecture               111       
+2016-2017   Yang                  Yuelei           ENGR 1025U  Lecture               184       
+2016-2017   Yang                  Yuelei           ENGR 1025U  Lecture               184       
+2016-2017   Yang                  Yuelei           MANE 3460U  Lecture               51        
+2016-2017   Yang                  Yuelei           MANE 3460U  Lecture               51        
+2016-2017   Yang                  Yuelei           MECE 3410U  Lecture               57        
+2016-2017   Yang                  Yuelei           MECE 3410U  Lecture               57        

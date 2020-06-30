@@ -1,0 +1,177 @@
+year        lastname              firstname        schtype               students            
+----------  --------------------  ---------------  --------------------  --------------------
+2014-2015   Bardin                Sylvie           Laboratory            13                  
+2014-2015   Bardin                Sylvie           Lecture               56                  
+2014-2015   Bardin                Sylvie           Lecture & Lab         14                  
+2014-2015   Bartholomew           Richard          Lecture               230                 
+2014-2015   Beligan               Mihai            Lecture               2248                
+2014-2015   Bergeron              Nancy            Laboratory            111                 
+2014-2015   Bergeron              Nancy            Lecture               111                 
+2014-2015   Bergeron              Nancy            Lecture & Lab         304                 
+2014-2015   Bourne                Lavern           Laboratory            112                 
+2014-2015   Bourne                Lavern           Lecture               208                 
+2014-2015   Bourne                Lavern           Lecture & Lab         304                 
+2014-2015   Braithwaite           Andrea           Lecture               356                 
+2014-2015   Brar                  Rupinder         Lecture               1674                
+2014-2015   Farzam                Masoud           Lecture               242                 
+2014-2015   Finney                Kenneth          Lecture               228                 
+2014-2015   Hall                  Athina           Lecture               196                 
+2014-2015   Hall                  Athina           Tutorial              149                 
+2014-2015   Harel                 Jordan           Lecture               976                 
+2014-2015   Hosseini              Sayyed Ali       Lecture               1092                
+2014-2015   Ibrahim               Amin             Lecture               821                 
+2014-2015   Ibrahim               Amin             Tutorial              93                  
+2014-2015   Johnson               Kerry            Lecture               264                 
+2014-2015   Jones                 Ferdinand        Lecture               846                 
+2014-2015   Jones                 Ferdinand        Tutorial              423                 
+2014-2015   Kapoustine            Valeri           Lecture               46                  
+2014-2015   Konopaski             Michael          Lecture               560                 
+2014-2015   Konopaski             Michael          Tutorial              10                  
+2014-2015   Laffier               Jennifer         Lecture               108                 
+2014-2015   Lafreniere            Nelson           Lecture               822                 
+2014-2015   Lafreniere            Nelson           Thesis/Project        24                  
+2014-2015   Lowe                  Joshua           Lecture               266                 
+2014-2015   Moreau                Evelyn           Lecture               62                  
+2014-2015   Nugent                Kimberly         Lecture               42                  
+2014-2015   Nugent                Kimberly         Thesis/Project        24                  
+2014-2015   Olaveson              Mary             Lecture               3282                
+2014-2015   Partosoedarso         Elita            Lecture               1060                
+2014-2015   Partosoedarso         Elita            Tutorial              204                 
+2014-2015   Perera                Sharman          Lecture               297                 
+2014-2015   Perera                Sharman          Thesis/Project        65                  
+2014-2015   Rubel                 Ashfakuddin      Lecture               714                 
+2014-2015   Rubel                 Ashfakuddin      Tutorial              713                 
+2014-2015   Saniei                Namdar           Lecture               864                 
+2014-2015   Shakoori              Azar             Lecture               2218                
+2014-2015   Shapiro               Morden           Lecture               505                 
+2014-2015   Simpson               Ruth             Laboratory            72                  
+2014-2015   Simpson               Ruth             Lecture               182                 
+2014-2015   Simpson               Ruth             Lecture & Lab         304                 
+2014-2015   Simpson               Ruth             Tutorial              234                 
+2014-2015   Smeeton               Donna            Laboratory            308                 
+2014-2015   Smeeton               Donna            Lecture               164                 
+2014-2015   Smeeton               Donna            Tutorial              216                 
+2014-2015   Stamatiou             George           Lecture               316                 
+2014-2015   Tavares               Annette          Lecture               2692                
+2014-2015   Thurber               Connie           Laboratory            109                 
+2014-2015   Thurber               Connie           Lecture               182                 
+2014-2015   Thurber               Connie           Lecture & Lab         304                 
+2014-2015   Thurber               William          Lecture               149                 
+2014-2015   Thurber               William          Tutorial              858                 
+2014-2015   Yang                  Yuelei           Lecture               1396                
+2015-2016   Adler                 Marc             Lecture               986                 
+2015-2016   Bardin                Sylvie           Laboratory            18                  
+2015-2016   Bardin                Sylvie           Lecture & Lab         14                  
+2015-2016   Bardin                Sylvie           Other                 54                  
+2015-2016   Bartholomew           Richard          Lecture               228                 
+2015-2016   Beligan               Mihai            Lecture               2446                
+2015-2016   Bergeron              Nancy            Laboratory            114                 
+2015-2016   Bergeron              Nancy            Lecture               151                 
+2015-2016   Bergeron              Nancy            Lecture & Lab         435                 
+2015-2016   Bourne                Lavern           Laboratory            147                 
+2015-2016   Bourne                Lavern           Lecture               185                 
+2015-2016   Braithwaite           Andrea           Lecture               367                 
+2015-2016   Brar                  Rupinder         Lecture               1530                
+2015-2016   Coulter               Kevin            Lecture               318                 
+2015-2016   Hall                  Athina           Lecture               334                 
+2015-2016   Hall                  Athina           Tutorial              86                  
+2015-2016   Harel                 Jordan           Lecture               1142                
+2015-2016   Hosseini              Sayyed Ali       Lecture               1328                
+2015-2016   Ibrahim               Amin             Lecture               989                 
+2015-2016   Johnson               Kerry            Lecture               521                 
+2015-2016   Jones                 Ferdinand        Lecture               778                 
+2015-2016   Kapoustine            Valeri           Lecture               34                  
+2015-2016   Konopaski             Michael          Lecture               608                 
+2015-2016   Konopaski             Michael          Tutorial              56                  
+2015-2016   Lafreniere            Nelson           Lecture               1273                
+2015-2016   Lafreniere            Nelson           Thesis/Project        18                  
+2015-2016   Lowe                  Joshua           Laboratory            18                  
+2015-2016   Lowe                  Joshua           Lecture               234                 
+2015-2016   MacRae                Brent            Laboratory            147                 
+2015-2016   MacRae                Brent            Lecture               160                 
+2015-2016   MacRae                Brent            Tutorial              45                  
+2015-2016   Moreau                Evelyn           Lecture               74                  
+2015-2016   Nugent                Kimberly         Lecture               26                  
+2015-2016   Nugent                Kimberly         Thesis/Project        18                  
+2015-2016   Olaveson              Mary             Lecture               3689                
+2015-2016   Partosoedarso         Elita            Lecture               1343                
+2015-2016   Perera                Sharman          Laboratory            132                 
+2015-2016   Perera                Sharman          Lecture               364                 
+2015-2016   Perera                Sharman          Thesis/Project        29                  
+2015-2016   Perera                Sharman          Tutorial              66                  
+2015-2016   Rubel                 Ashfakuddin      Lecture               1159                
+2015-2016   Rubel                 Ashfakuddin      Tutorial              788                 
+2015-2016   Saniei                Namdar           Lecture               1054                
+2015-2016   Shakoori              Azar             Lecture               2162                
+2015-2016   Shapiro               Morden           Lecture               496                 
+2015-2016   Simpson               Ruth             Laboratory            165                 
+2015-2016   Simpson               Ruth             Lecture & Lab         435                 
+2015-2016   Smeeton               Donna            Laboratory            456                 
+2015-2016   Smeeton               Donna            Lecture               124                 
+2015-2016   Smeeton               Donna            Tutorial              174                 
+2015-2016   Stamatiou             George           Laboratory            3                   
+2015-2016   Stamatiou             George           Lecture               365                 
+2015-2016   Tavares               Annette          Lecture               2785                
+2015-2016   Thurber               Connie           Laboratory            79                  
+2015-2016   Thurber               Connie           Lecture               234                 
+2015-2016   Thurber               Connie           Lecture & Lab         435                 
+2015-2016   Thurber               William          Tutorial              870                 
+2015-2016   Yang                  Yuelei           Lecture               1354                
+2016-2017   Adler                 Marc             Lecture               614                 
+2016-2017   Bardin                Sylvie           Laboratory            15                  
+2016-2017   Bardin                Sylvie           Lecture & Lab         16                  
+2016-2017   Bardin                Sylvie           Other                 30                  
+2016-2017   Bartholomew           Richard          Lecture               232                 
+2016-2017   Beligan               Mihai            Lecture               1664                
+2016-2017   Bergeron              Nancy            Laboratory            116                 
+2016-2017   Bergeron              Nancy            Lecture               116                 
+2016-2017   Bergeron              Nancy            Lecture & Lab         288                 
+2016-2017   Bourne                Lavern           Laboratory            148                 
+2016-2017   Bourne                Lavern           Lecture               104                 
+2016-2017   Braithwaite           Andrea           Lecture               441                 
+2016-2017   Brar                  Rupinder         Lecture               1100                
+2016-2017   Coulter               Kevin            Lecture               16                  
+2016-2017   Harel                 Jordan           Lecture               1011                
+2016-2017   Hosseini              Sayyed Ali       Lecture               844                 
+2016-2017   Ibrahim               Amin             Lecture               1000                
+2016-2017   Johnson               Kerry            Lecture               301                 
+2016-2017   Jones                 Ferdinand        Lecture               870                 
+2016-2017   Jones                 Ferdinand        Tutorial              369                 
+2016-2017   Kapoustine            Valeri           Lecture               20                  
+2016-2017   Konopaski             Michael          Lecture               442                 
+2016-2017   Laffier               Jennifer         Lecture               26                  
+2016-2017   Lafreniere            Nelson           Lecture               330                 
+2016-2017   Lafreniere            Nelson           Thesis/Project        13                  
+2016-2017   Lowe                  Joshua           Laboratory            24                  
+2016-2017   Lowe                  Joshua           Lecture               246                 
+2016-2017   MacRae                Brent            Laboratory            138                 
+2016-2017   MacRae                Brent            Lecture               219                 
+2016-2017   MacRae                Brent            Tutorial              44                  
+2016-2017   Miedema               Theresa          Lecture               339                 
+2016-2017   Moreau                Evelyn           Lecture               56                  
+2016-2017   Nugent                Kimberly         Thesis/Project        13                  
+2016-2017   Olaveson              Mary             Lecture               3368                
+2016-2017   Partosoedarso         Elita            Lecture               862                 
+2016-2017   Perera                Sharman          Lecture               356                 
+2016-2017   Perera                Sharman          Thesis/Project        39                  
+2016-2017   Rubel                 Ashfakuddin      Lecture               738                 
+2016-2017   Rubel                 Ashfakuddin      Tutorial              714                 
+2016-2017   Saniei                Namdar           Lecture               846                 
+2016-2017   Shakoori              Azar             Lecture               1018                
+2016-2017   Shapiro               Morden           Lecture               360                 
+2016-2017   Simpson               Ruth             Laboratory            108                 
+2016-2017   Simpson               Ruth             Lecture               74                  
+2016-2017   Simpson               Ruth             Lecture & Lab         288                 
+2016-2017   Smeeton               Donna            Laboratory            471                 
+2016-2017   Smeeton               Donna            Lecture               123                 
+2016-2017   Smeeton               Donna            Tutorial              32                  
+2016-2017   Stamatiou             George           Lecture               140                 
+2016-2017   Stamatiou             George           Lecture & Lab         30                  
+2016-2017   Stamatopoulos         Vivian           Lecture               611                 
+2016-2017   Sugianto              Santoso          Lecture               852                 
+2016-2017   Tavares               Annette          Lecture               2347                
+2016-2017   Thurber               Connie           Laboratory            108                 
+2016-2017   Thurber               Connie           Lecture               216                 
+2016-2017   Thurber               Connie           Lecture & Lab         288                 
+2016-2017   Thurber               William          Tutorial              858                 
+2016-2017   Yang                  Yuelei           Lecture               1496                
