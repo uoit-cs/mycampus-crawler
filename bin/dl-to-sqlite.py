@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup, NavigableString
 import sqlite3
 from datetime import datetime
 
-YEARS = "07 08 09 10 11 12 13 14 15 16 17 18".split()
+YEARS = "07 08 09 10 11 12 13 14 15 16 17 18 19 20 21".split()
 
 def log(s=""):
     sys.stderr.write(s + "\n")

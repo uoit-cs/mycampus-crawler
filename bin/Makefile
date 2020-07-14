@@ -3,6 +3,10 @@ all:
 	echo $(timestamp)
 	python dl-to-sqlite.py --db ../databases/$(timestamp).sqlite3 --semester all
 
+cs:
+	echo $(timestamp)
+	python dl-to-sqlite.py --db ../databases/csci_$(timestamp).sqlite3 --subj CSCI --semester all
+
 test:
 	python dl-to-sqlite.py --db test.sqlite3 --semester 202009
 	echo "select count(*) from schedule;" | sqlite3 test.sqlite3
